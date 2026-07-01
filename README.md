@@ -24,10 +24,6 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
 </p>
 
 <p align="center">
@@ -35,8 +31,6 @@
 <img src="https://komarev.com/ghpvc/?username=Aditya70-creator&style=for-the-badge&color=0e75b6"/>
 
 <img src="https://img.shields.io/github/followers/Aditya70-creator?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/Aditya70-creator?affiliations=OWNER&style=for-the-badge"/>
 
 </p>
 
@@ -159,25 +153,21 @@ public class AdityaMitra {
 <img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,html,css,mysql&theme=dark" />
 
 <br/><br/>
-
 ## ⚙️ Backend Development
 
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express,maven,hibernate&theme=dark" />
 
 <br/><br/>
-
 ## 🗄️ Database
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
 
 <br/><br/>
-
 ## 🛠️ Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker,linux,bash&theme=dark" />
 
 <br/><br/>
-
 ## ☁️ Currently Learning
 
 <img src="https://skillicons.dev/icons?i=spring,docker,kubernetes,aws&theme=dark" />
@@ -286,19 +276,6 @@ Open Source
 System Design
         ███░░░░░░░░░░░░░ 15%
 ```
-
----
-
-<div align="center">
-
-### 🚀 Philosophy
-
-> **"Consistency beats intensity.  
-> Build. Learn. Improve. Repeat."**
-
-</div>
-
----
 
 <p align="center">
 
@@ -410,27 +387,6 @@ src="https://raw.githubusercontent.com/Aditya70-creator/Aditya70-creator/output/
 
 ---
 
-# 📚 Current Focus
-
-```text
-Backend Engineering
-███████████████████░░░░░░░░ 70%
-
-Data Structures & Algorithms
-█████████████████░░░░░░░░░░ 65%
-
-Spring Boot
-████████████░░░░░░░░░░░░░░░ 50%
-
-Open Source
-█████████░░░░░░░░░░░░░░░░░░ 35%
-
-System Design
-██████░░░░░░░░░░░░░░░░░░░░░ 25%
-```
-
----
-
 # 💡 Philosophy
 
 <div align="center">
@@ -451,18 +407,6 @@ System Design
 - 🌍 Dreaming big, building bigger.
 
 ---
-
-# 📈 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Aditya70-creator&style=for-the-badge&color=blueviolet"/>
-
-</div>
-
----
-
-<div align="center">
 
 ## ⭐ Thanks for visiting my profile!
 
