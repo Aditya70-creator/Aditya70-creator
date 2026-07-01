@@ -307,16 +307,16 @@ System Design
 </p>
 
 <!-- ===================================================== -->
-<!--              GITHUB ANALYTICS                         -->
+<!--                GITHUB ANALYTICS                       -->
 <!-- ===================================================== -->
 
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Aditya70-creator&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aditya70-creator&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya70-creator&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aditya70-creator&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -330,21 +330,11 @@ System Design
 
 ---
 
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Aditya70-creator&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=1&column=7"/>
-
-</div>
-
----
-
 # 📈 Contribution Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya70-creator&theme=tokyo-night&bg_color=1a1b27&hide_border=true&line=00E5FF&point=00E5FF&area=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya70-creator&theme=github-dark&hide_border=true"/>
 
 </div>
 
@@ -362,37 +352,10 @@ srcset="https://raw.githubusercontent.com/Aditya70-creator/Aditya70-creator/outp
 <source media="(prefers-color-scheme: light)"
 srcset="https://raw.githubusercontent.com/Aditya70-creator/Aditya70-creator/output/github-contribution-grid-snake.svg"/>
 
-<img width="100%"
+<img alt="GitHub Contribution Snake"
 src="https://raw.githubusercontent.com/Aditya70-creator/Aditya70-creator/output/github-contribution-grid-snake.svg"/>
 
 </picture>
-
-</div>
-
----
-
-# 📅 Contribution Calendar
-
-<div align="center">
-
-<img width="95%" src="https://ghchart.rshah.org/00E5FF/Aditya70-creator"/>
-
-</div>
-
----
-
-# ⚡ GitHub Summary
-
-<div align="center">
-
-| Metric | Status |
-|:-------|:------:|
-| ⭐ Public Repositories | Updating Automatically |
-| 🔥 GitHub Streak | Live |
-| 📈 Contribution Graph | Live |
-| 🏆 GitHub Trophies | Live |
-| 🐍 Snake Animation | Live |
-| 👨‍💻 Profile Views | Live |
 
 </div>
 
@@ -403,7 +366,6 @@ src="https://raw.githubusercontent.com/Aditya70-creator/Aditya70-creator/output/
 <img src="https://user-images.githubusercontent.com/74038190/212744275-2d2c7b3e-5f2c-4f8b-bd87-6cb8cb59d4a7.gif" width="100%"/>
 
 </div>
-
 <!-- ===================================================== -->
 <!--                 CONNECT SECTION                       -->
 <!-- ===================================================== -->
@@ -414,7 +376,7 @@ src="https://raw.githubusercontent.com/Aditya70-creator/Aditya70-creator/output/
 
 <p>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/aditya-mitra-708913380">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
