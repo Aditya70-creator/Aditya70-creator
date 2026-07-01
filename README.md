@@ -1,45 +1,519 @@
-# 💫 About Me:
-Hi, I’m Aditya Mitra, a Computer Science Engineering student with a strong interest in AI-driven software development and cybersecurity.<br>Currently pursuing B.Tech in CSE, I’m building a solid foundation in programming, data structures, system design, and secure development practices — focused on building intelligent and secure software systems.<br><br>💻 Technical Skills :-<br><br>Programming: C, C++, Python, Java, JavaScript, SQL<br>Web & Backend: HTML, CSS, MongoDB (basic), XAMPP<br>Tools: VS Code, Git, Linux<br>Cybersecurity: Kali Linux, OverTheWire (Bandit), CTF fundamentals<br>Cloud/Systems: Kubernetes (CKA)<br><br>🚀 What I’m Working Toward:-<br><br>• Strengthening algorithms and software architecture<br>• Improving cybersecurity skills through labs and CTFs<br>• Building AI-based and system-focused projects<br><br>💡 I believe in disciplined learning, hands-on practice, and continuous improvement.
+<!-- ===================================================== -->
+<!--                 HERO SECTION                          -->
+<!-- ===================================================== -->
 
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Aditya Mitra Banner"/>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)] [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mitraaditya14@gmail.com) 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=00E7FF&center=true&vCenter=true&width=900&lines=Backend+Developer;Open+Source+Enthusiast;Building+Scalable+Systems;Learning+Something+New+Everyday" />
+</p>
 
-# 💻 Tech Stack:
+<p align="center">
 
-# LANGUAGES:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) 
+<a href="https://github.com/Aditya70-creator">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-# Hosting/SaaS:
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) 
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-# FRAMEWORKS, PLATFORMS & LIBRARIES:
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) 
+<a href="mailto:mitraaditya14@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-# SERVERS:
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) 
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
-# DATABASES/ORM:
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
+</p>
 
-# DESIGN:
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) 
+<p align="center">
 
-# ML/DL:
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) 
+<img src="https://komarev.com/ghpvc/?username=Aditya70-creator&style=for-the-badge&color=0e75b6"/>
 
-# CI/CD VCS:
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
+<img src="https://img.shields.io/github/followers/Aditya70-creator?style=for-the-badge"/>
 
-# OTHER:
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=flat&logo=Ubisoft&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=flat&logo=xbox&logoColor=white)
+<img src="https://img.shields.io/github/stars/Aditya70-creator?affiliations=OWNER&style=for-the-badge"/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Aditya70-creator&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Aditya70-creator&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aditya70-creator&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</p>
 
-### ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👋 About Me
+
+```java
+public class AdityaMitra {
+
+    String role = "Backend Developer";
+
+    String education = "B.Tech Computer Science Engineering";
+
+    String interests[] = {
+        "Backend Engineering",
+        "Open Source",
+        "System Design",
+        "Artificial Intelligence"
+    };
+
+    String currentlyLearning[] = {
+        "Spring Boot",
+        "Apache Open Source",
+        "Data Structures & Algorithms",
+        "System Design"
+    };
+
+    String goal = "Become a Software Engineer capable of building scalable systems.";
+
+}
+```
+
+---
+
+<table>
+
+<tr>
+
+<td width="34%" valign="top">
+
+## 👨‍💻 About
+
+- 🎓 B.Tech CSE Student
+
+- 💻 Passionate about Backend Engineering
+
+- 🚀 Interested in Open Source
+
+- 📚 Consistently solving DSA problems
+
+- 🌱 Learning Spring Boot & System Design
+
+- 🤝 Love building practical software
+
+- ⚡ Always learning by building
+
+</td>
+
+<td width="33%" valign="top">
+
+## 🚀 Currently Working On
+
+- Backend Development
+
+- Spring Boot
+
+- Apache Open Source
+
+- Full Stack Projects
+
+- LeetCode
+
+- Git & GitHub
+
+- Clean Code Practices
+
+</td>
+
+<td width="33%" valign="top">
+
+## 🎯 2026 Goals
+
+- ⭐ Apache Contributor
+
+- ⭐ GSoC 2027 Preparation
+
+- ⭐ Backend Internship
+
+- ⭐ 500+ LeetCode Problems
+
+- ⭐ Production Ready Projects
+
+- ⭐ Strong System Design
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<p align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284103-503f5af2-55c5-4b33-9e5d-9e2a8f1d0d66.gif" width="100%"/>
+
+</p>
+
+<!-- ===================================================== -->
+<!--                 TECH STACK                            -->
+<!-- ===================================================== -->
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+## 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,html,css,mysql&theme=dark" />
+
+<br/><br/>
+
+## ⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,maven,hibernate&theme=dark" />
+
+<br/><br/>
+
+## 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+
+<br/><br/>
+
+## 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker,linux,bash&theme=dark" />
+
+<br/><br/>
+
+## ☁️ Currently Learning
+
+<img src="https://skillicons.dev/icons?i=spring,docker,kubernetes,aws&theme=dark" />
+
+</div>
+
+---
+
+# 📌 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🧠 Memory Dock
+
+> **Status:** 🟣 In Development
+
+A modern file storage & synchronization platform focused on secure sharing, productivity, and seamless cross-device access.
+
+### Tech
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square)
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📊 Student Marks Manager 
+
+A student management application to calculate CGPA, organize marks, and visualize academic performance.
+
+### Tech
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 💻 LeetCode-Solutions
+
+A continuously growing repository containing optimized DSA solutions and interview preparation notes.
+
+### Focus
+
+- Arrays
+- Strings
+- Trees
+- Graphs
+- Dynamic Programming
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🌍 Apache Open Source
+
+> Coming Soon 🚀
+
+Preparing to contribute to Apache projects while learning large-scale production codebases and open-source collaboration.
+
+### Goal
+
+- Apache Grails
+- Apache Foundation
+- GSoC 2027
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📈 Learning Roadmap
+
+```text
+Backend Development
+        █████████░░░░░░░ 55%
+
+Spring Boot
+        ██████░░░░░░░░░░ 35%
+
+Data Structures
+        ███████░░░░░░░░░ 40%
+
+Open Source
+        ███░░░░░░░░░░░░░ 20%
+
+System Design
+        ███░░░░░░░░░░░░░ 15%
+```
+
+---
+
+<div align="center">
+
+### 🚀 Philosophy
+
+> **"Consistency beats intensity.  
+> Build. Learn. Improve. Repeat."**
+
+</div>
+
+---
+
+<p align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2d2c7b3e-5f2c-4f8b-bd87-6cb8cb59d4a7.gif" width="100%"/>
+
+</p>
+
+<!-- ===================================================== -->
+<!--              GITHUB ANALYTICS                         -->
+<!-- ===================================================== -->
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Aditya70-creator&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya70-creator&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="75%" src="https://streak-stats.demolab.com?user=Aditya70-creator&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Aditya70-creator&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=1&column=7"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya70-creator&theme=tokyo-night&bg_color=1a1b27&hide_border=true&line=00E5FF&point=00E5FF&area=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/Aditya70-creator/Aditya70-creator/output/github-contribution-grid-snake-dark.svg"/>
+
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/Aditya70-creator/Aditya70-creator/output/github-contribution-grid-snake.svg"/>
+
+<img width="100%"
+src="https://raw.githubusercontent.com/Aditya70-creator/Aditya70-creator/output/github-contribution-grid-snake.svg"/>
+
+</picture>
+
+</div>
+
+---
+
+# 📅 Contribution Calendar
+
+<div align="center">
+
+<img width="95%" src="https://ghchart.rshah.org/00E5FF/Aditya70-creator"/>
+
+</div>
+
+---
+
+# ⚡ GitHub Summary
+
+<div align="center">
+
+| Metric | Status |
+|:-------|:------:|
+| ⭐ Public Repositories | Updating Automatically |
+| 🔥 GitHub Streak | Live |
+| 📈 Contribution Graph | Live |
+| 🏆 GitHub Trophies | Live |
+| 🐍 Snake Animation | Live |
+| 👨‍💻 Profile Views | Live |
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2d2c7b3e-5f2c-4f8b-bd87-6cb8cb59d4a7.gif" width="100%"/>
+
+</div>
+
+<!-- ===================================================== -->
+<!--                 CONNECT SECTION                       -->
+<!-- ===================================================== -->
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<p>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mitraaditya14@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Aditya70-creator">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+</div>
+
+---
+
+# 💼 Open To
+
+<div align="center">
+
+| 💡 Looking For | Status |
+|:--------------|:------:|
+| Backend Development Internship | ✅ |
+| Open Source Collaboration | ✅ |
+| Java / Spring Boot Projects | ✅ |
+| Hackathons | ✅ |
+| Research & Learning Opportunities | ✅ |
+
+</div>
+
+---
+
+# 📚 Current Focus
+
+```text
+Backend Engineering
+███████████████████░░░░░░░░ 70%
+
+Data Structures & Algorithms
+█████████████████░░░░░░░░░░ 65%
+
+Spring Boot
+████████████░░░░░░░░░░░░░░░ 50%
+
+Open Source
+█████████░░░░░░░░░░░░░░░░░░ 35%
+
+System Design
+██████░░░░░░░░░░░░░░░░░░░░░ 25%
+```
+
+---
+
+# 💡 Philosophy
+
+<div align="center">
+
+> **"Great software isn't built in a day.  
+> It is built every single day."**
+
+</div>
+
+---
+
+# ⚡ Fun Facts
+
+- ☕ Coffee + Music = Productivity
+- 💻 I enjoy building backend systems.
+- 🚀 Always exploring new technologies.
+- 📖 Learning something every day.
+- 🌍 Dreaming big, building bigger.
+
+---
+
+# 📈 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Aditya70-creator&style=for-the-badge&color=blueviolet"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+
+If you enjoy my projects, feel free to ⭐ my repositories.
+
+Let's build something amazing together 🚀
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+
+</div>
