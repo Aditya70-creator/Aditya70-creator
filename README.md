@@ -371,22 +371,6 @@ src="https://raw.githubusercontent.com/Aditya70-creator/Aditya70-creator/output/
 
 ---
 
-# 💼 Open To
-
-<div align="center">
-
-| 💡 Looking For | Status |
-|:--------------|:------:|
-| Backend Development Internship | ✅ |
-| Open Source Collaboration | ✅ |
-| Java / Spring Boot Projects | ✅ |
-| Hackathons | ✅ |
-| Research & Learning Opportunities | ✅ |
-
-</div>
-
----
-
 # 💡 Philosophy
 
 <div align="center">
