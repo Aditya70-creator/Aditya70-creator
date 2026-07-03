@@ -152,25 +152,21 @@ public class AdityaMitra {
 
 <img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,html,css,mysql&theme=dark" />
 
-<br/><br/>
 ## ⚙️ Backend Development
 
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express,maven,hibernate&theme=dark" />
 
-<br/><br/>
 ## 🗄️ Database
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
 
-<br/><br/>
 ## 🛠️ Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker,linux,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,bash&theme=dark" />
 
-<br/><br/>
 ## ☁️ Currently Learning
 
-<img src="https://skillicons.dev/icons?i=spring,docker,kubernetes,aws&theme=dark" />
+<img src="https://skillicons.dev/icons?i=spring,docker&theme=dark" />
 
 </div>
 
