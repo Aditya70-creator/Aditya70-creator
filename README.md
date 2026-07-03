@@ -1,13 +1,17 @@
 <!-- ===================================================== -->
-<!--                 HERO SECTION                          -->
+<!--                  HERO SECTION v3                      -->
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Aditya Mitra Banner"/>
+
+<img src="./banner.png" width="100%" alt="Aditya Mitra Banner"/>
+
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=00E7FF&center=true&vCenter=true&width=900&lines=Backend+Developer;Open+Source+Enthusiast;Building+Scalable+Systems;Learning+Something+New+Everyday" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&pause=1200&color=00E7FF&center=true&vCenter=true&width=950&lines=Backend+Developer;Java+%7C+Spring+Boot;Open+Source+Enthusiast;Building+Scalable+Backend+Systems;Always+Learning+Something+New"/>
+
 </p>
 
 <p align="center">
@@ -16,7 +20,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/aditya-mitra-708913380">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -30,7 +34,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=Aditya70-creator&style=for-the-badge&color=0e75b6"/>
 
-<img src="https://img.shields.io/github/followers/Aditya70-creator?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Aditya70-creator?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/Aditya70-creator?affiliations=OWNER&style=for-the-badge"/>
 
 </p>
 
@@ -40,27 +46,29 @@
 
 ```java
 public class AdityaMitra {
-
-    String role = "Backend Developer";
-
-    String education = "B.Tech Computer Science Engineering";
-
-    String interests[] = {
-        "Backend Engineering",
+    private final String role = "Backend Developer";
+    private final String education = "B.Tech Computer Science Engineering";
+    private final String[] focus = {
+        "Java",
+        "Spring Boot",
+        "Backend Development",
         "Open Source",
-        "System Design",
-        "Artificial Intelligence"
+        "System Design"
     };
-
-    String currentlyLearning[] = {
+    private final String[] currentlyLearning = {
         "Spring Boot",
         "Apache Open Source",
         "Data Structures & Algorithms",
-        "System Design"
+        "Distributed Systems"
     };
-
-    String goal = "Become a Software Engineer capable of building scalable systems.";
-
+    public void buildCareer() {
+        while(true){
+            learn();
+            build();
+            contribute();
+            improve();
+        }
+    }
 }
 ```
 
@@ -70,23 +78,23 @@ public class AdityaMitra {
 
 <tr>
 
-<td width="34%" valign="top">
+<td width="33%" valign="top">
 
 ## 👨‍💻 About
 
-- 🎓 B.Tech CSE Student
+🎓 B.Tech Computer Science Engineering Student
 
-- 💻 Passionate about Backend Engineering
+💻 Passionate about Backend Engineering
 
-- 🚀 Interested in Open Source
+🚀 Interested in Open Source
 
-- 📚 Consistently solving DSA problems
+📚 Solving DSA Problems Regularly
 
-- 🌱 Learning Spring Boot & System Design
+🌱 Learning Spring Boot
 
-- 🤝 Love building practical software
+⚡ Exploring System Design
 
-- ⚡ Always learning by building
+🤝 Love Building Practical Software
 
 </td>
 
@@ -94,19 +102,19 @@ public class AdityaMitra {
 
 ## 🚀 Currently Working On
 
-- Backend Development
+• Backend Development
 
-- Spring Boot
+• Spring Boot
 
-- Apache Open Source
+• Apache Open Source
 
-- Full Stack Projects
+• Git & GitHub
 
-- LeetCode
+• LeetCode
 
-- Git & GitHub
+• Clean Architecture
 
-- Clean Code Practices
+• REST APIs
 
 </td>
 
@@ -114,17 +122,15 @@ public class AdityaMitra {
 
 ## 🎯 2026 Goals
 
-- ⭐ Apache Contributor
+⭐ Apache Contributor
 
-- ⭐ GSoC 2027 Preparation
+⭐ 250+ LeetCode Problems
 
-- ⭐ Backend Internship
+⭐ Production Ready Projects
 
-- ⭐ 500+ LeetCode Problems
+⭐ Strong Java Backend Skills
 
-- ⭐ Production Ready Projects
-
-- ⭐ Strong System Design
+⭐ GSoC 2027 Preparation
 
 </td>
 
@@ -136,160 +142,53 @@ public class AdityaMitra {
 
 <p align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284103-503f5af2-55c5-4b33-9e5d-9e2a8f1d0d66.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 </p>
 
 <!-- ===================================================== -->
-<!--                 TECH STACK                            -->
+<!--                  TECH STACK v3                        -->
 <!-- ===================================================== -->
 
 # 🛠️ Tech Stack
 
 <div align="center">
 
-## 💻 Languages
+### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,html,css,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,html,css,mysql&theme=dark" />
 
-## ⚙️ Backend Development
+### ⚙️ Backend Development
 
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express,maven,hibernate&theme=dark" />
 
-## 🗄️ Database
+### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" />
 
-## 🛠️ Tools
+### ☁️ DevOps & Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,postman,vscode,idea&theme=dark" />
 
-## ☁️ Currently Learning
+### 📚 Currently Learning
 
-<img src="https://skillicons.dev/icons?i=spring,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=spring,docker,kubernetes,aws&theme=dark" />
 
 </div>
 
 ---
 
-# 📌 Featured Projects
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🧠 Memory Dock
-
-> **Status:** 🟣 In Development
-
-A modern file storage & synchronization platform focused on secure sharing, productivity, and seamless cross-device access.
-
-### Tech
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square)
-
-</td>
-
-<td width="50%" valign="top">
-
-## 📊 Student Marks Manager 
-
-A student management application to calculate CGPA, organize marks, and visualize academic performance.
-
-### Tech
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 💻 LeetCode-Solutions
-
-A continuously growing repository containing optimized DSA solutions and interview preparation notes.
-
-### Focus
-
-- Arrays
-- Strings
-- Trees
-- Graphs
-- Dynamic Programming
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🌍 Apache Open Source
-
-> Coming Soon 🚀
-
-Preparing to contribute to Apache projects while learning large-scale production codebases and open-source collaboration.
-
-### Goal
-
-- Apache Grails
-- Apache Foundation
-- GSoC 2027
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 📈 Learning Roadmap
-
-```text
-Backend Development
-        █████████░░░░░░░ 55%
-
-Spring Boot
-        ██████░░░░░░░░░░ 35%
-
-Data Structures
-        ███████░░░░░░░░░ 40%
-
-Open Source
-        ███░░░░░░░░░░░░░ 20%
-
-System Design
-        ███░░░░░░░░░░░░░ 15%
-```
-
-<p align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2d2c7b3e-5f2c-4f8b-bd87-6cb8cb59d4a7.gif" width="100%"/>
-
-</p>
-
 <!-- ===================================================== -->
-<!--                GITHUB ANALYTICS                       -->
+<!--                GITHUB ANALYTICS v3                    -->
 <!-- ===================================================== -->
 
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aditya70-creator&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aditya70-creator&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
 
-<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aditya70-creator&layout=compact&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya70-creator&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
@@ -303,11 +202,39 @@ System Design
 
 ---
 
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Aditya70-creator&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15"/>
+
+</div>
+
+---
+
 # 📈 Contribution Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya70-creator&theme=github-dark&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya70-creator&theme=tokyo-night&bg_color=1a1b27&hide_border=true&line=00E5FF&point=00E5FF&area=true"/>
+
+</div>
+
+---
+
+# 📦 GitHub Summary Cards
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya70-creator&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya70-creator&theme=tokyonight"/>
+
+<br><br>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditya70-creator&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aditya70-creator&theme=tokyonight&utcOffset=5.5"/>
 
 </div>
 
@@ -325,7 +252,7 @@ srcset="https://raw.githubusercontent.com/Aditya70-creator/Aditya70-creator/outp
 <source media="(prefers-color-scheme: light)"
 srcset="https://raw.githubusercontent.com/Aditya70-creator/Aditya70-creator/output/github-contribution-grid-snake.svg"/>
 
-<img alt="GitHub Contribution Snake"
+<img alt="Contribution Snake"
 src="https://raw.githubusercontent.com/Aditya70-creator/Aditya70-creator/output/github-contribution-grid-snake.svg"/>
 
 </picture>
@@ -334,72 +261,228 @@ src="https://raw.githubusercontent.com/Aditya70-creator/Aditya70-creator/output/
 
 ---
 
+# ⚡ Development Activity
+
 <div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=Aditya70-creator&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+
+</div>
+
+---
+
+<p align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212744275-2d2c7b3e-5f2c-4f8b-bd87-6cb8cb59d4a7.gif" width="100%"/>
 
-</div>
+</p>
+
 <!-- ===================================================== -->
-<!--                 CONNECT SECTION                       -->
+<!--                 FEATURED PROJECTS v3                  -->
 <!-- ===================================================== -->
 
-# 🤝 Let's Connect
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🧠 MemoryDock
+
+<img src="https://img.shields.io/badge/Status-In%20Development-purple?style=flat-square"/>
+
+A modern cloud-inspired file management platform focused on secure storage, synchronization, sharing and productivity.
+
+### ✨ Highlights
+
+- Secure File Storage
+- Cross Device Synchronization
+- User Authentication
+- File Sharing
+- Clean Dashboard
+
+### ⚙️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,git"/>
+
+<br><br>
+
+<a href="https://github.com/Aditya70-creator/MemoryDock">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📊 Student Marks Manager
+
+<img src="https://img.shields.io/badge/Status-Active-success?style=flat-square"/>
+
+A web application designed to manage student records, calculate CGPA and visualize academic performance.
+
+### ✨ Highlights
+
+- Student Management
+- CGPA Calculator
+- Dashboard
+- Result Analysis
+- Clean UI
+
+### ⚙️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,java,spring,mysql"/>
+
+<br><br>
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 💻 LeetCode Solutions
+
+<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square"/>
+
+A continuously growing collection of optimized Data Structures & Algorithms solutions with clean code.
+
+### 📚 Covers
+
+- Arrays
+- Strings
+- Linked List
+- Trees
+- Graphs
+- Dynamic Programming
+
+### ⚙️ Tech
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<br><br>
+
+<a href="https://github.com/Aditya70-creator/LEETCODE-SOLUTIONS">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🌍 Apache Open Source
+
+<img src="https://img.shields.io/badge/Status-Learning-blue?style=flat-square"/>
+
+Preparing to contribute to Apache projects by understanding enterprise-level codebases and open-source workflows.
+
+### 🎯 Current Goals
+
+- Apache Grails
+- Bug Fixes
+- Documentation
+- Issue Discussions
+- Pull Requests
+
+### ⚙️ Focus
+
+<img src="https://skillicons.dev/icons?i=java,git,github"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/GSoC_2027-Goal-success?style=for-the-badge"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# ⚡ Core Interests
 
 <div align="center">
 
-<p>
+| 💻 Backend | 🌍 Open Source | 📚 Learning | 🚀 Career |
+|------------|----------------|-------------|------------|
+| REST APIs | Apache | Java | Software Engineering |
+| Spring Boot | GitHub | DSA | Backend Development |
+| Databases | Collaboration | System Design | GSoC 2027 |
+| Microservices | Code Reviews | Linux | Production Systems |
 
-<a href="https://www.linkedin.com/in/aditya-mitra-708913380">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+</div>
 
-<a href="mailto:mitraaditya14@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+---
 
-<a href="https://github.com/Aditya70-creator">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2d2c7b3e-5f2c-4f8b-bd87-6cb8cb59d4a7.gif" width="100%"/>
 
 </p>
 
-</div>
+<!-- ===================================================== -->
+<!--                 CONNECT SECTION v3                    -->
+<!-- ===================================================== -->
 
----
-
-# 💡 Philosophy
-
-<div align="center">
-
-> **"Great software isn't built in a day.  
-> It is built every single day."**
-
-</div>
-
----
-
-# ⚡ Fun Facts
-
-- ☕ Coffee + Music = Productivity
-- 💻 I enjoy building backend systems.
-- 🚀 Always exploring new technologies.
-- 📖 Learning something every day.
-- 🌍 Dreaming big, building bigger.
-
----
-
-## ⭐ Thanks for visiting my profile!
-
-If you enjoy my projects, feel free to ⭐ my repositories.
-
-Let's build something amazing together 🚀
-
-</div>
-
----
+# 📈 2026 Progress
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+| Goal | Progress |
+|------|:-------:|
+| Java Backend | 🟩🟩🟩🟩⬜ |
+| Spring Boot | 🟩🟩🟩⬜⬜ |
+| Data Structures | 🟩🟩🟩🟩⬜ |
+| Open Source | 🟩⬜⬜⬜⬜ |
+| System Design | 🟩⬜⬜⬜⬜ |
+
+</div>
+
+---
+
+# ⚡ Beyond Coding
+
+<div align="center">
+
+🎵 Music while coding
+
+☕ Coffee-powered debugging
+
+📚 Always learning
+
+🌍 Open Source believer
+
+🚀 Building software that solves real problems
+
+</div>
+
+---
+
+# 📬 Thanks for Visiting
+
+<div align="center">
+
+⭐ If you like my work, consider starring a repository.
+
+I'm always open to learning, collaborating, and building meaningful software.
+
+### Happy Coding! 🚀
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=140&section=footer"/>
 
 </div>
