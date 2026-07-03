@@ -202,16 +202,6 @@ public class AdityaMitra {
 
 ---
 
-# 🏆 GitHub Achievements 
-
-<div align="center"> 
-    
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Aditya70-creator&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15"/> 
-
-</div> 
-
----
-
 # 📈 Contribution Activity
 
 <div align="center">
@@ -260,22 +250,6 @@ src="https://raw.githubusercontent.com/Aditya70-creator/Aditya70-creator/output/
 </div>
 
 ---
-
-# ⚡ Development Activity
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Aditya70-creator&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-
-</div>
-
----
-
-<p align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2d2c7b3e-5f2c-4f8b-bd87-6cb8cb59d4a7.gif" width="100%"/>
-
-</p>
 
 <!-- ===================================================== -->
 <!--                 FEATURED PROJECTS v3                  -->
