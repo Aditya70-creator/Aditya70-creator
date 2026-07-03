@@ -186,9 +186,9 @@ public class AdityaMitra {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aditya70-creator&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aditya70-creator&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya70-creator&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aditya70-creator&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -202,13 +202,13 @@ public class AdityaMitra {
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 GitHub Achievements 
 
-<div align="center">
+<div align="center"> 
+    
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Aditya70-creator&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15"/> 
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Aditya70-creator&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15"/>
-
-</div>
+</div> 
 
 ---
 
