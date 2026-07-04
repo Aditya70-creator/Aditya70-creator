@@ -443,6 +443,6 @@ I'm always open to learning, collaborating, and building meaningful software.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E676,50:76FF03,100:B2FF59&height=140&section=footer"/>
 
 </div>
