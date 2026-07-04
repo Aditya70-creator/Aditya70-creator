@@ -283,7 +283,7 @@ A modern cloud-inspired file management platform focused on secure storage, sync
 
 <br><br>
 
-<a href="https://github.com/Aditya70-creator/MemoryDock">
+<a href="https://github.com/Aditya70-creator/Memory_Dock">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -311,7 +311,7 @@ A web application designed to manage student records, calculate CGPA and visuali
 
 <br><br>
 
-<a href="YOUR_REPOSITORY_LINK">
+<a href="https://github.com/Aditya70-creator/Student-Marks-Manager">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -344,7 +344,7 @@ A continuously growing collection of optimized Data Structures & Algorithms solu
 
 <br><br>
 
-<a href="https://github.com/Aditya70-creator/LEETCODE-SOLUTIONS">
+<a href="https://github.com/Aditya70-creator/leetcode-solutions">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
