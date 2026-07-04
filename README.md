@@ -80,27 +80,13 @@ public class AdityaMitra {
 
 <td width="33%" valign="top">
 
-## 👨‍💻 About
-
-🎓 B.Tech Computer Science Engineering Student
-
-💻 Passionate about Backend Engineering
-
-🚀 Interested in Open Source
-
-📚 Solving DSA Problems Regularly
-
-🌱 Learning Spring Boot
-
-⚡ Exploring System Design
-
-🤝 Love Building Practical Software
+[![My GitFut card](https://gitfut.com/Aditya70-creator.png)](https://gitfut.com/Aditya70-creator)
 
 </td>
 
 <td width="33%" valign="top">
 
-## 🚀 Currently Working On
+## 🚀 Current Focus
 
 • Backend Development
 
