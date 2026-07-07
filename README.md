@@ -182,7 +182,7 @@ public class AdityaMitra {
 
 <div align="center">
 
-<img width="75%" src="https://streak-stats.demolab.com?user=Aditya70-creator&theme=tokyonight&hide_border=true"/>
+<img width="75%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Aditya70-creator&theme=tokyonight&hide_border=true"/>
 
 </div>
 
