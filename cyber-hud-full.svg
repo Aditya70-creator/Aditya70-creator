@@ -1,0 +1,359 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="1260" viewBox="0 0 880 1260" fill="none">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;700;900&amp;family=JetBrains+Mono:wght@400;600;800&amp;family=Permanent+Marker&amp;display=swap');
+      .font-mono { font-family: 'JetBrains Mono', monospace; }
+      .font-display { font-family: 'Chakra Petch', sans-serif; }
+      .font-script { font-family: 'Permanent Marker', cursive; }
+      .text-primary { fill: #00ff9d; }
+      .text-secondary { fill: #00e5ff; }
+      .text-accent { fill: #a855f7; }
+      .text-white { fill: #ffffff; }
+      .text-slate { fill: #94a3b8; }
+      .text-dim { fill: #64748b; }
+    </style>
+    
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#05080f"/>
+      <stop offset="50%" stop-color="#100d20"/>
+      <stop offset="100%" stop-color="#05080f"/>
+    </linearGradient>
+
+    <radialGradient id="halo-glow" cx="50%" cy="30%" r="50%">
+      <stop offset="0%" stop-color="#00e5ff" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#05080f" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="neon-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+
+    <pattern id="cyber-grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#00ff9d" stroke-width="0.5" stroke-opacity="0.15"/>
+    </pattern>
+  </defs>
+
+  <!-- BACKGROUND -->
+  <rect width="880" height="1260" rx="14" fill="url(#bg-grad)"/>
+  <rect width="880" height="1260" fill="url(#cyber-grid)"/>
+  <circle cx="440" cy="300" r="400" fill="url(#halo-glow)"/>
+
+  <!-- MAIN HUD BORDER -->
+  <rect x="14" y="14" width="852" height="1232" rx="10" fill="#05080f" fill-opacity="0.85" stroke="#00ff9d" stroke-width="2" stroke-opacity="0.6"/>
+
+  <!-- CORNER TECH NOTCHES -->
+  <path d="M 28 14 L 14 14 L 14 28" stroke="#00ff9d" stroke-width="3"/>
+  <path d="M 852 14 L 866 14 L 866 28" stroke="#00e5ff" stroke-width="3"/>
+  <path d="M 28 1246 L 14 1246 L 14 1232" stroke="#00e5ff" stroke-width="3"/>
+  <path d="M 852 1246 L 866 1246 L 866 1232" stroke="#00ff9d" stroke-width="3"/>
+
+  <!-- TOP STATUS BAR -->
+  <text x="36" y="44" class="font-mono" font-size="13" font-weight="bold" fill="#00e5ff">&gt;_ <tspan fill="#00ff9d">aditya70-creator</tspan> <tspan fill="#64748b">// dev_profile</tspan></text>
+  <circle cx="770" cy="40" r="4.5" fill="#00ff9d"/>
+  <text x="782" y="44" class="font-mono text-primary" font-size="12" font-weight="bold">ONLINE</text>
+  <line x1="36" y1="56" x2="844" y2="56" stroke="#00ff9d" stroke-opacity="0.3" stroke-width="1"/>
+
+  <!-- ================= 01 PROFILE HEADER ================= -->
+  <g transform="translate(36, 75)">
+    <!-- Header Box -->
+    <rect width="808" height="200" rx="8" fill="#070d18" stroke="#00ff9d" stroke-opacity="0.35" stroke-width="1.2"/>
+    
+    <!-- Avatar Graphic Container -->
+    <g transform="translate(20, 20)">
+      <circle cx="80" cy="80" r="76" fill="#070710" stroke="#00ff9d" stroke-width="2"/>
+      <circle cx="80" cy="80" r="70" fill="none" stroke="#00e5ff" stroke-width="1.2" stroke-dasharray="8 6"/>
+      <circle cx="80" cy="80" r="64" fill="none" stroke="#a855f7" stroke-width="1" stroke-dasharray="2 6 12 4"/>
+      <!-- Silhouette -->
+      <path d="M 40 135 C 45 105, 60 98, 70 94 C 75 100, 85 100, 90 94 C 100 98, 115 105, 120 135 Z" fill="#0f0f20" stroke="#00ff9d" stroke-width="1.2"/>
+      <circle cx="80" cy="70" r="24" fill="#090914" stroke="#00ff9d" stroke-width="1.2"/>
+      <!-- Visor -->
+      <line x1="72" y1="68" x2="88" y2="68" stroke="#00e5ff" stroke-width="3" stroke-linecap="round"/>
+    </g>
+
+    <!-- Header Text -->
+    <g transform="translate(200, 32)">
+      <text x="0" y="0" class="font-mono text-slate" font-size="12">Hi, I'm</text>
+      <text x="0" y="38" class="font-display" font-size="38" font-weight="900" fill="#ffffff" letter-spacing="1.5">ADITYA <tspan fill="#00ff9d" filter="url(#neon-glow)">MITRA</tspan></text>
+      <text x="0" y="66" class="font-mono" font-size="14" font-weight="bold" fill="#00e5ff">Backend Developer <tspan fill="#64748b">•</tspan> <tspan fill="#a855f7">Open Source Contributor</tspan></text>
+      <text x="0" y="86" class="font-mono text-slate" font-size="12">B.Tech CSE Student @ KIIT</text>
+      <line x1="0" y1="98" x2="380" y2="98" stroke="#00ff9d" stroke-opacity="0.3"/>
+      <text x="0" y="118" class="font-mono text-primary" font-size="11">⚡ Building  /  Learning  /  Shipping  →  Better Systems ⚡</text>
+
+      <!-- Skill Pills -->
+      <g transform="translate(0, 134)">
+        
+          <g transform="translate(0, 0)">
+            <rect width="72" height="22" rx="4" fill="#00ff9d" fill-opacity="0.15" stroke="#00ff9d" stroke-width="1" stroke-opacity="0.6"/>
+            <text x="36" y="15" class="font-mono" font-size="10" font-weight="bold" fill="#ffffff" text-anchor="middle">Java</text>
+          </g>
+        
+          <g transform="translate(78, 0)">
+            <rect width="72" height="22" rx="4" fill="#00e5ff" fill-opacity="0.15" stroke="#00e5ff" stroke-width="1" stroke-opacity="0.6"/>
+            <text x="36" y="15" class="font-mono" font-size="10" font-weight="bold" fill="#ffffff" text-anchor="middle">Spring Boot</text>
+          </g>
+        
+          <g transform="translate(156, 0)">
+            <rect width="72" height="22" rx="4" fill="#00ff9d" fill-opacity="0.15" stroke="#00ff9d" stroke-width="1" stroke-opacity="0.6"/>
+            <text x="36" y="15" class="font-mono" font-size="10" font-weight="bold" fill="#ffffff" text-anchor="middle">DSA</text>
+          </g>
+        
+          <g transform="translate(234, 0)">
+            <rect width="72" height="22" rx="4" fill="#00e5ff" fill-opacity="0.15" stroke="#00e5ff" stroke-width="1" stroke-opacity="0.6"/>
+            <text x="36" y="15" class="font-mono" font-size="10" font-weight="bold" fill="#ffffff" text-anchor="middle">Backend Engineering</text>
+          </g>
+        
+          <g transform="translate(312, 0)">
+            <rect width="72" height="22" rx="4" fill="#00ff9d" fill-opacity="0.15" stroke="#00ff9d" stroke-width="1" stroke-opacity="0.6"/>
+            <text x="36" y="15" class="font-mono" font-size="10" font-weight="bold" fill="#ffffff" text-anchor="middle">System Design</text>
+          </g>
+        
+          <g transform="translate(390, 0)">
+            <rect width="72" height="22" rx="4" fill="#00e5ff" fill-opacity="0.15" stroke="#00e5ff" stroke-width="1" stroke-opacity="0.6"/>
+            <text x="36" y="15" class="font-mono" font-size="10" font-weight="bold" fill="#ffffff" text-anchor="middle">Open Source</text>
+          </g>
+        
+      </g>
+    </g>
+
+    <!-- Right Quick Links Card -->
+    <g transform="translate(640, 24)">
+      <rect width="150" height="152" rx="6" fill="#080812" stroke="#00ff9d" stroke-opacity="0.3"/>
+      <text x="14" y="24" class="font-mono" font-size="10" font-weight="bold" fill="#00ff9d">GITHUB</text>
+      <text x="14" y="40" class="font-mono text-slate" font-size="10">@aditya70-creator</text>
+      <line x1="14" y1="52" x2="136" y2="52" stroke="#252538"/>
+
+      <text x="14" y="72" class="font-mono" font-size="10" font-weight="bold" fill="#00e5ff">LINKEDIN</text>
+      <text x="14" y="88" class="font-mono text-slate" font-size="10">Connect with me</text>
+      <line x1="14" y1="100" x2="136" y2="100" stroke="#252538"/>
+
+      <text x="14" y="120" class="font-mono" font-size="10" font-weight="bold" fill="#a855f7">PORTFOLIO</text>
+      <text x="14" y="136" class="font-mono text-slate" font-size="10">Coming Soon</text>
+    </g>
+  </g>
+
+  <!-- ================= 02 SYSTEM.INFO & 03 CURRENT.MISSION ================= -->
+  <g transform="translate(36, 295)">
+    <!-- 02 SYSTEM.INFO (Left Box) -->
+    <g>
+      <rect width="390" height="210" rx="8" fill="#070d18" stroke="#00ff9d" stroke-opacity="0.35" stroke-width="1.2"/>
+      <text x="18" y="26" class="font-mono" font-size="13" font-weight="bold" fill="#00e5ff">02 <tspan fill="#ffffff">SYSTEM.INFO</tspan></text>
+      <text x="350" y="26" class="font-mono text-primary" font-size="12">&lt;/&gt;</text>
+      <line x1="18" y1="36" x2="372" y2="36" stroke="#00ff9d" stroke-opacity="0.2"/>
+
+      <g transform="translate(18, 56)" class="font-mono" font-size="11">
+        <text x="0" y="0" fill="#64748b">NAME</text><text x="100" y="0" fill="#00ff9d">:</text><text x="115" y="0" fill="#ffffff">Aditya Mitra</text>
+        <text x="0" y="22" fill="#64748b">HANDLE</text><text x="100" y="22" fill="#00ff9d">:</text><text x="115" y="22" fill="#a855f7">@aditya70-creator</text>
+        <text x="0" y="44" fill="#64748b">ROLE</text><text x="100" y="44" fill="#00ff9d">:</text><text x="115" y="44" fill="#ffffff">Backend Developer</text>
+        <text x="0" y="66" fill="#64748b">STATUS</text><text x="100" y="66" fill="#00ff9d">:</text><text x="115" y="66" fill="#00e5ff">Building | Learning | Shipping</text>
+        <line x1="0" y1="78" x2="354" y2="78" stroke="#252538"/>
+        <text x="0" y="98" fill="#64748b">PRIMARY</text><text x="100" y="98" fill="#00ff9d">:</text><text x="115" y="98" fill="#ffffff">Java</text>
+        <text x="0" y="120" fill="#64748b">BACKEND</text><text x="100" y="120" fill="#00ff9d">:</text><text x="115" y="120" fill="#ffffff">Spring Boot</text>
+        <text x="0" y="142" fill="#64748b">DATABASE</text><text x="100" y="142" fill="#00ff9d">:</text><text x="115" y="142" fill="#00ff9d">PostgreSQL / MongoDB</text>
+      </g>
+    </g>
+
+    <!-- 03 CURRENT.MISSION (Right Box) -->
+    <g transform="translate(418, 0)">
+      <rect width="390" height="210" rx="8" fill="#070d18" stroke="#00ff9d" stroke-opacity="0.35" stroke-width="1.2"/>
+      <text x="18" y="26" class="font-mono" font-size="13" font-weight="bold" fill="#00ff9d">03 <tspan fill="#ffffff">CURRENT.MISSION</tspan> <tspan fill="#64748b" font-size="11">// roadmap</tspan></text>
+      <line x1="18" y1="36" x2="372" y2="36" stroke="#00ff9d" stroke-opacity="0.2"/>
+
+      <g transform="translate(18, 54)">
+        <!-- CORE -->
+        <rect x="0" y="0" width="70" height="18" rx="3" fill="#00ff9d" fill-opacity="0.2" stroke="#00ff9d" stroke-width="1"/>
+        <text x="35" y="13" class="font-mono text-primary" font-size="9" font-weight="bold" text-anchor="middle">CORE</text>
+        <text x="80" y="14" class="font-mono text-slate" font-size="11">○ Strengthen DSA</text>
+
+        <!-- BUILDING -->
+        <rect x="0" y="32" width="70" height="18" rx="3" fill="#00e5ff" fill-opacity="0.2" stroke="#00e5ff" stroke-width="1"/>
+        <text x="35" y="45" class="font-mono text-secondary" font-size="9" font-weight="bold" text-anchor="middle">BUILDING</text>
+        <text x="80" y="46" class="font-mono text-slate" font-size="11">○ Build production-grade backend systems</text>
+
+        <!-- EXPLORING -->
+        <rect x="0" y="64" width="70" height="18" rx="3" fill="#a855f7" fill-opacity="0.2" stroke="#a855f7" stroke-width="1"/>
+        <text x="35" y="77" class="font-mono text-accent" font-size="9" font-weight="bold" text-anchor="middle">EXPLORING</text>
+        <text x="80" y="78" class="font-mono text-slate" font-size="11">○ Contribute to Open Source</text>
+
+        <!-- NEXT -->
+        <rect x="0" y="96" width="70" height="18" rx="3" fill="#3b82f6" fill-opacity="0.2" stroke="#3b82f6" stroke-width="1"/>
+        <text x="35" y="109" class="font-mono" font-size="9" font-weight="bold" fill="#3b82f6" text-anchor="middle">NEXT</text>
+        <text x="80" y="110" class="font-mono text-slate" font-size="11">○ Build ML / MLOps projects</text>
+      </g>
+
+      <!-- Radar Circle Art -->
+      <g transform="translate(305, 115)">
+        <circle cx="35" cy="35" r="34" fill="none" stroke="#00ff9d" stroke-width="1" stroke-opacity="0.4"/>
+        <circle cx="35" cy="35" r="22" fill="none" stroke="#00e5ff" stroke-width="1" stroke-opacity="0.5"/>
+        <circle cx="35" cy="35" r="10" fill="none" stroke="#a855f7" stroke-width="1" stroke-opacity="0.7"/>
+        <line x1="35" y1="1" x2="35" y2="69" stroke="#00ff9d" stroke-opacity="0.4"/>
+        <line x1="1" y1="35" x2="69" y2="35" stroke="#00ff9d" stroke-opacity="0.4"/>
+        <circle cx="48" cy="22" r="2" fill="#00e5ff"/>
+        <text x="35" y="84" class="font-mono text-primary" font-size="8" font-weight="bold" text-anchor="middle">GROWTH RADAR</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- ================= 04 FEATURED.REPOSITORIES ================= -->
+  <g transform="translate(36, 525)">
+    <rect width="808" height="175" rx="8" fill="#070d18" stroke="#00ff9d" stroke-opacity="0.35" stroke-width="1.2"/>
+    <text x="18" y="26" class="font-mono" font-size="13" font-weight="bold" fill="#00ff9d">04 <tspan fill="#ffffff">FEATURED.REPOSITORIES</tspan> <tspan fill="#64748b" font-size="11">// 2 projects</tspan></text>
+    <line x1="18" y1="36" x2="790" y2="36" stroke="#00ff9d" stroke-opacity="0.2"/>
+
+    <!-- Repo 1 -->
+    <g transform="translate(18, 50)">
+      <rect width="380" height="105" rx="6" fill="#080814" stroke="#00ff9d" stroke-opacity="0.4"/>
+      <text x="14" y="24" class="font-mono" font-size="13" font-weight="bold" fill="#ffffff">Metadata-Extractor</text>
+      <rect x="260" y="10" width="105" height="18" rx="3" fill="#00ff9d" fill-opacity="0.2" stroke="#00ff9d" stroke-width="0.8"/>
+      <text x="312" y="23" class="font-mono text-primary" font-size="9" text-anchor="middle">Java CLI Utility</text>
+      <text x="14" y="46" class="font-mono text-slate" font-size="10">A lightweight, high-performance Java command-line utility for extrac...</text>
+      <text x="14" y="88" class="font-mono text-primary" font-size="10">View Repository →</text>
+    </g>
+
+    <!-- Repo 2 -->
+    <g transform="translate(410, 50)">
+      <rect width="380" height="105" rx="6" fill="#080814" stroke="#00e5ff" stroke-opacity="0.4"/>
+      <text x="14" y="24" class="font-mono" font-size="13" font-weight="bold" fill="#ffffff">Student-Marks-Manager</text>
+      <rect x="250" y="10" width="115" height="18" rx="3" fill="#00e5ff" fill-opacity="0.2" stroke="#00e5ff" stroke-width="0.8"/>
+      <text x="307" y="23" class="font-mono text-secondary" font-size="9" text-anchor="middle">Spring Boot + MongoDB</text>
+      <text x="14" y="46" class="font-mono text-slate" font-size="10">A Spring Boot based student management system with authentication an...</text>
+      <text x="14" y="88" class="font-mono text-secondary" font-size="10">View Repository →</text>
+    </g>
+  </g>
+
+  <!-- ================= 05 STACK.SCAN ================= -->
+  <g transform="translate(36, 720)">
+    <rect width="808" height="175" rx="8" fill="#070d18" stroke="#00ff9d" stroke-opacity="0.35" stroke-width="1.2"/>
+    <text x="18" y="26" class="font-mono" font-size="13" font-weight="bold" fill="#00ff9d">05 <tspan fill="#ffffff">STACK.SCAN</tspan> <tspan fill="#64748b" font-size="11">// technologies</tspan></text>
+    <line x1="18" y1="36" x2="790" y2="36" stroke="#00ff9d" stroke-opacity="0.2"/>
+
+    <!-- 5 Columns -->
+    <g transform="translate(18, 52)">
+      <!-- Col 1 -->
+      <g transform="translate(0, 0)">
+        <text x="0" y="12" class="font-mono text-primary" font-size="11" font-weight="bold">CORE</text>
+        <text x="0" y="34" class="font-mono text-slate" font-size="10">Java</text>
+        <rect x="0" y="40" width="135" height="6" rx="2" fill="#18182e"/>
+        <rect x="0" y="40" width="115" height="6" rx="2" fill="#00ff9d"/>
+        <text x="0" y="64" class="font-mono text-slate" font-size="10">Git &amp; GitHub</text>
+        <rect x="0" y="70" width="135" height="6" rx="2" fill="#18182e"/>
+        <rect x="0" y="70" width="100" height="6" rx="2" fill="#00ff9d"/>
+      </g>
+
+      <!-- Col 2 -->
+      <g transform="translate(160, 0)">
+        <text x="0" y="12" class="font-mono text-secondary" font-size="11" font-weight="bold">BACKEND</text>
+        <text x="0" y="34" class="font-mono text-slate" font-size="10">Spring Boot</text>
+        <rect x="0" y="40" width="135" height="6" rx="2" fill="#18182e"/>
+        <rect x="0" y="40" width="108" height="6" rx="2" fill="#00e5ff"/>
+        <text x="0" y="64" class="font-mono text-slate" font-size="10">Postgres &amp; Mongo</text>
+        <rect x="0" y="70" width="135" height="6" rx="2" fill="#18182e"/>
+        <rect x="0" y="70" width="95" height="6" rx="2" fill="#00e5ff"/>
+      </g>
+
+      <!-- Col 3 -->
+      <g transform="translate(320, 0)">
+        <text x="0" y="12" class="font-mono text-accent" font-size="11" font-weight="bold">BUILDING</text>
+        <text x="0" y="34" class="font-mono text-slate" font-size="10">Docker</text>
+        <rect x="0" y="40" width="135" height="6" rx="2" fill="#18182e"/>
+        <rect x="0" y="40" width="85" height="6" rx="2" fill="#a855f7"/>
+        <text x="0" y="64" class="font-mono text-slate" font-size="10">AWS Cloud</text>
+        <rect x="0" y="70" width="135" height="6" rx="2" fill="#18182e"/>
+        <rect x="0" y="70" width="75" height="6" rx="2" fill="#a855f7"/>
+      </g>
+
+      <!-- Col 4 -->
+      <g transform="translate(480, 0)">
+        <text x="0" y="12" class="font-mono" font-size="11" font-weight="bold" fill="#3b82f6">EXPLORING</text>
+        <text x="0" y="34" class="font-mono text-slate" font-size="10">Python</text>
+        <rect x="0" y="40" width="135" height="6" rx="2" fill="#18182e"/>
+        <rect x="0" y="40" width="88" height="6" rx="2" fill="#3b82f6"/>
+        <text x="0" y="64" class="font-mono text-slate" font-size="10">Machine Learning</text>
+        <rect x="0" y="70" width="135" height="6" rx="2" fill="#18182e"/>
+        <rect x="0" y="70" width="68" height="6" rx="2" fill="#3b82f6"/>
+      </g>
+
+      <!-- Col 5 -->
+      <g transform="translate(640, 0)">
+        <text x="0" y="12" class="font-mono text-primary" font-size="11" font-weight="bold">NEXT</text>
+        <text x="0" y="34" class="font-mono text-slate" font-size="10">System Design</text>
+        <rect x="0" y="40" width="135" height="6" rx="2" fill="#18182e"/>
+        <rect x="0" y="40" width="75" height="6" rx="2" fill="#00ff9d"/>
+        <text x="0" y="64" class="font-mono text-slate" font-size="10">Distributed Sys</text>
+        <rect x="0" y="70" width="135" height="6" rx="2" fill="#18182e"/>
+        <rect x="0" y="70" width="60" height="6" rx="2" fill="#00ff9d"/>
+      </g>
+    </g>
+  </g>
+
+  <!-- ================= 06 GITHUB.ACTIVITY ================= -->
+  <g transform="translate(36, 915)">
+    <rect width="808" height="175" rx="8" fill="#070d18" stroke="#00ff9d" stroke-opacity="0.35" stroke-width="1.2"/>
+    <text x="18" y="26" class="font-mono" font-size="13" font-weight="bold" fill="#00e5ff">06 <tspan fill="#ffffff">GITHUB.ACTIVITY</tspan> <tspan fill="#64748b" font-size="11">// contributions</tspan></text>
+    <line x1="18" y1="36" x2="790" y2="36" stroke="#00ff9d" stroke-opacity="0.2"/>
+
+    <!-- Left Stats Counter -->
+    <g transform="translate(18, 52)">
+      <rect width="180" height="26" rx="4" fill="#080814" stroke="#00ff9d" stroke-opacity="0.3"/>
+      <text x="12" y="17" class="font-mono text-slate" font-size="10">Repositories</text>
+      <text x="160" y="17" class="font-mono text-primary" font-size="11" font-weight="bold" text-anchor="end">12</text>
+
+      <rect y="32" width="180" height="26" rx="4" fill="#080814" stroke="#00e5ff" stroke-opacity="0.3"/>
+      <text x="12" y="49" class="font-mono text-slate" font-size="10">Followers</text>
+      <text x="160" y="49" class="font-mono text-secondary" font-size="11" font-weight="bold" text-anchor="end">21</text>
+
+      <rect y="64" width="180" height="26" rx="4" fill="#080814" stroke="#00ff9d" stroke-opacity="0.3"/>
+      <text x="12" y="81" class="font-mono text-slate" font-size="10">Contributions</text>
+      <text x="160" y="81" class="font-mono text-primary" font-size="11" font-weight="bold" text-anchor="end">165</text>
+    </g>
+
+    <!-- Center Simulated Heatmap SVG Grid -->
+    <g transform="translate(230, 52)">
+      <text x="0" y="0" class="font-mono text-slate" font-size="9">Aug  Sep  Oct  Nov  Dec  Jan  Feb  Mar  Apr  May  Jun  Jul</text>
+      <g transform="translate(0, 10)">
+        <rect x="0" y="0" width="10" height="8" rx="2" fill="#121224"/><rect x="0" y="11" width="10" height="8" rx="2" fill="#00ff9d44"/><rect x="0" y="22" width="10" height="8" rx="2" fill="#00e5ff88"/><rect x="0" y="33" width="10" height="8" rx="2" fill="#00ff9d"/><rect x="0" y="44" width="10" height="8" rx="2" fill="#121224"/><rect x="0" y="55" width="10" height="8" rx="2" fill="#00e5ff88"/><rect x="0" y="66" width="10" height="8" rx="2" fill="#00e5ff"/><rect x="14" y="0" width="10" height="8" rx="2" fill="#121224"/><rect x="14" y="11" width="10" height="8" rx="2" fill="#00e5ff88"/><rect x="14" y="22" width="10" height="8" rx="2" fill="#00e5ff"/><rect x="14" y="33" width="10" height="8" rx="2" fill="#121224"/><rect x="14" y="44" width="10" height="8" rx="2" fill="#00ff9d44"/><rect x="14" y="55" width="10" height="8" rx="2" fill="#00e5ff"/><rect x="14" y="66" width="10" height="8" rx="2" fill="#00ff9d"/><rect x="28" y="0" width="10" height="8" rx="2" fill="#00ff9d44"/><rect x="28" y="11" width="10" height="8" rx="2" fill="#00e5ff"/><rect x="28" y="22" width="10" height="8" rx="2" fill="#00ff9d"/><rect x="28" y="33" width="10" height="8" rx="2" fill="#00ff9d44"/><rect x="28" y="44" width="10" height="8" rx="2" fill="#00e5ff88"/><rect x="28" y="55" width="10" height="8" rx="2" fill="#00e5ff"/><rect x="28" y="66" width="10" height="8" rx="2" fill="#121224"/><rect x="42" y="0" width="10" height="8" rx="2" fill="#00e5ff88"/><rect x="42" y="11" width="10" height="8" rx="2" fill="#00e5ff"/><rect x="42" y="22" width="10" height="8" rx="2" fill="#121224"/><rect x="42" y="33" width="10" height="8" rx="2" fill="#00ff9d44"/><rect x="42" y="44" width="10" height="8" rx="2" fill="#00e5ff"/><rect x="42" y="55" width="10" height="8" rx="2" fill="#00ff9d"/><rect x="42" y="66" width="10" height="8" rx="2" fill="#00ff9d44"/><rect x="56" y="0" width="10" height="8" rx="2" fill="#00e5ff"/><rect x="56" y="11" width="10" height="8" rx="2" fill="#00ff9d"/><rect x="56" y="22" width="10" height="8" rx="2" fill="#00ff9d44"/><rect x="56" y="33" width="10" height="8" rx="2" fill="#00e5ff88"/><rect x="56" y="44" width="10" height="8" rx="2" fill="#00ff9d"/><rect x="56" y="55" width="10" height="8" rx="2" fill="#121224"/><rect x="56" y="66" width="10" height="8" rx="2" fill="#00e5ff88"/><rect x="70" y="0" width="10" height="8" rx="2" fill="#00ff9d"/><rect x="70" y="11" width="10" height="8" rx="2" fill="#121224"/><rect x="70" y="22" width="10" height="8" rx="2" fill="#00e5ff88"/><rect x="70" y="33" width="10" height="8" rx="2" fill="#00e5ff"/><rect x="70" y="44" width="10" height="8" rx="2" fill="#121224"/><rect x="70" y="55" width="10" height="8" rx="2" fill="#00ff9d44"/><rect x="70" y="66" width="10" height="8" rx="2" fill="#00e5ff88"/><rect x="84" y="0" width="10" height="8" rx="2" fill="#121224"/><rect x="84" y="11" width="10" height="8" rx="2" fill="#00ff9d44"/><rect x="84" y="22" width="10" height="8" rx="2" fill="#00e5ff88"/><rect x="84" y="33" width="10" height="8" rx="2" fill="#00ff9d"/><rect x="84" y="44" width="10" height="8" rx="2" fill="#121224"/><rect x="84" y="55" width="10" height="8" rx="2" fill="#00e5ff88"/><rect x="84" y="66" width="10" height="8" rx="2" fill="#00e5ff"/><rect x="98" y="0" width="10" height="8" rx="2" fill="#121224"/><rect x="98" y="11" width="10" height="8" rx="2" fill="#00e5ff88"/><rect x="98" y="22" width="10" height="8" rx="2" fill="#00e5ff"/><rect x="98" y="33" width="10" height="8" rx="2" fill="#121224"/><rect x="98" y="44" width="10" height="8" rx="2" fill="#00ff9d44"/><rect x="98" y="55" width="10" height="8" rx="2" fill="#00e5ff"/><rect x="98" y="66" width="10" height="8" rx="2" fill="#00ff9d"/><rect x="112" y="0" width="10" height="8" rx="2" fill="#00ff9d44"/><rect x="112" y="11" width="10" height="8" rx="2" fill="#00e5ff"/><rect x="112" y="22" width="10" height="8" rx="2" fill="#00ff9d"/><rect x="112" y="33" width="10" height="8" rx="2" fill="#00ff9d44"/><rect x="112" y="44" width="10" height="8" rx="2" fill="#00e5ff88"/><rect x="112" y="55" width="10" height="8" rx="2" fill="#00ff9d"/><rect x="112" y="66" width="10" height="8" rx="2" fill="#121224"/><rect x="126" y="0" width="10" height="8" rx="2" fill="#00e5ff88"/><rect x="126" y="11" width="10" height="8" rx="2" fill="#00ff9d"/><rect x="126" y="22" width="10" height="8" rx="2" fill="#121224"/><rect x="126" y="33" width="10" height="8" rx="2" fill="#00ff9d44"/><rect x="126" y="44" width="10" height="8" rx="2" fill="#00e5ff"/><rect x="126" y="55" width="10" height="8" rx="2" fill="#00ff9d"/><rect x="126" y="66" width="10" height="8" rx="2" fill="#00ff9d44"/><rect x="140" y="0" width="10" height="8" rx="2" fill="#00e5ff"/><rect x="140" y="11" width="10" height="8" rx="2" fill="#00ff9d"/><rect x="140" y="22" width="10" height="8" rx="2" fill="#00ff9d44"/><rect x="140" y="33" width="10" height="8" rx="2" fill="#00e5ff88"/><rect x="140" y="44" width="10" height="8" rx="2" fill="#00ff9d"/><rect x="140" y="55" width="10" height="8" rx="2" fill="#121224"/><rect x="140" y="66" width="10" height="8" rx="2" fill="#00e5ff88"/><rect x="154" y="0" width="10" height="8" rx="2" fill="#00ff9d"/><rect x="154" y="11" width="10" height="8" rx="2" fill="#121224"/><rect x="154" y="22" width="10" height="8" rx="2" fill="#00e5ff88"/><rect x="154" y="33" width="10" height="8" rx="2" fill="#00e5ff"/><rect x="154" y="44" width="10" height="8" rx="2" fill="#121224"/><rect x="154" y="55" width="10" height="8" rx="2" fill="#00ff9d44"/><rect x="154" y="66" width="10" height="8" rx="2" fill="#00e5ff"/><rect x="168" y="0" width="10" height="8" rx="2" fill="#121224"/><rect x="168" y="11" width="10" height="8" rx="2" fill="#00ff9d44"/><rect x="168" y="22" width="10" height="8" rx="2" fill="#00e5ff"/><rect x="168" y="33" width="10" height="8" rx="2" fill="#00ff9d"/><rect x="168" y="44" width="10" height="8" rx="2" fill="#121224"/><rect x="168" y="55" width="10" height="8" rx="2" fill="#00e5ff88"/><rect x="168" y="66" width="10" height="8" rx="2" fill="#00e5ff"/><rect x="182" y="0" width="10" height="8" rx="2" fill="#00ff9d44"/><rect x="182" y="11" width="10" height="8" rx="2" fill="#00e5ff88"/><rect x="182" y="22" width="10" height="8" rx="2" fill="#00e5ff"/><rect x="182" y="33" width="10" height="8" rx="2" fill="#121224"/><rect x="182" y="44" width="10" height="8" rx="2" fill="#00ff9d44"/><rect x="182" y="55" width="10" height="8" rx="2" fill="#00e5ff"/><rect x="182" y="66" width="10" height="8" rx="2" fill="#00ff9d"/><rect x="196" y="0" width="10" height="8" rx="2" fill="#00ff9d44"/><rect x="196" y="11" width="10" height="8" rx="2" fill="#00e5ff"/><rect x="196" y="22" width="10" height="8" rx="2" fill="#00ff9d"/><rect x="196" y="33" width="10" height="8" rx="2" fill="#00ff9d44"/><rect x="196" y="44" width="10" height="8" rx="2" fill="#00e5ff88"/><rect x="196" y="55" width="10" height="8" rx="2" fill="#00ff9d"/><rect x="196" y="66" width="10" height="8" rx="2" fill="#121224"/><rect x="210" y="0" width="10" height="8" rx="2" fill="#00e5ff88"/><rect x="210" y="11" width="10" height="8" rx="2" fill="#00ff9d"/><rect x="210" y="22" width="10" height="8" rx="2" fill="#121224"/><rect x="210" y="33" width="10" height="8" rx="2" fill="#00e5ff88"/><rect x="210" y="44" width="10" height="8" rx="2" fill="#00e5ff"/><rect x="210" y="55" width="10" height="8" rx="2" fill="#121224"/><rect x="210" y="66" width="10" height="8" rx="2" fill="#00ff9d44"/><rect x="224" y="0" width="10" height="8" rx="2" fill="#00e5ff"/><rect x="224" y="11" width="10" height="8" rx="2" fill="#121224"/><rect x="224" y="22" width="10" height="8" rx="2" fill="#00ff9d44"/><rect x="224" y="33" width="10" height="8" rx="2" fill="#00e5ff88"/><rect x="224" y="44" width="10" height="8" rx="2" fill="#00ff9d"/><rect x="224" y="55" width="10" height="8" rx="2" fill="#121224"/><rect x="224" y="66" width="10" height="8" rx="2" fill="#00e5ff88"/><rect x="238" y="0" width="10" height="8" rx="2" fill="#00ff9d"/><rect x="238" y="11" width="10" height="8" rx="2" fill="#121224"/><rect x="238" y="22" width="10" height="8" rx="2" fill="#00e5ff88"/><rect x="238" y="33" width="10" height="8" rx="2" fill="#00e5ff"/><rect x="238" y="44" width="10" height="8" rx="2" fill="#121224"/><rect x="238" y="55" width="10" height="8" rx="2" fill="#00ff9d44"/><rect x="238" y="66" width="10" height="8" rx="2" fill="#00e5ff"/><rect x="252" y="0" width="10" height="8" rx="2" fill="#121224"/><rect x="252" y="11" width="10" height="8" rx="2" fill="#00ff9d44"/><rect x="252" y="22" width="10" height="8" rx="2" fill="#00e5ff"/><rect x="252" y="33" width="10" height="8" rx="2" fill="#00ff9d"/><rect x="252" y="44" width="10" height="8" rx="2" fill="#00ff9d44"/><rect x="252" y="55" width="10" height="8" rx="2" fill="#00e5ff88"/><rect x="252" y="66" width="10" height="8" rx="2" fill="#00e5ff"/><rect x="266" y="0" width="10" height="8" rx="2" fill="#00ff9d44"/><rect x="266" y="11" width="10" height="8" rx="2" fill="#00e5ff88"/><rect x="266" y="22" width="10" height="8" rx="2" fill="#00ff9d"/><rect x="266" y="33" width="10" height="8" rx="2" fill="#121224"/><rect x="266" y="44" width="10" height="8" rx="2" fill="#00ff9d44"/><rect x="266" y="55" width="10" height="8" rx="2" fill="#00e5ff"/><rect x="266" y="66" width="10" height="8" rx="2" fill="#00ff9d"/><rect x="280" y="0" width="10" height="8" rx="2" fill="#00ff9d44"/><rect x="280" y="11" width="10" height="8" rx="2" fill="#00e5ff"/><rect x="280" y="22" width="10" height="8" rx="2" fill="#00ff9d"/><rect x="280" y="33" width="10" height="8" rx="2" fill="#00ff9d44"/><rect x="280" y="44" width="10" height="8" rx="2" fill="#00e5ff88"/><rect x="280" y="55" width="10" height="8" rx="2" fill="#00ff9d"/><rect x="280" y="66" width="10" height="8" rx="2" fill="#121224"/><rect x="294" y="0" width="10" height="8" rx="2" fill="#00e5ff88"/><rect x="294" y="11" width="10" height="8" rx="2" fill="#00ff9d"/><rect x="294" y="22" width="10" height="8" rx="2" fill="#121224"/><rect x="294" y="33" width="10" height="8" rx="2" fill="#00e5ff88"/><rect x="294" y="44" width="10" height="8" rx="2" fill="#00e5ff"/><rect x="294" y="55" width="10" height="8" rx="2" fill="#121224"/><rect x="294" y="66" width="10" height="8" rx="2" fill="#00ff9d44"/><rect x="308" y="0" width="10" height="8" rx="2" fill="#00e5ff"/><rect x="308" y="11" width="10" height="8" rx="2" fill="#121224"/><rect x="308" y="22" width="10" height="8" rx="2" fill="#00ff9d44"/><rect x="308" y="33" width="10" height="8" rx="2" fill="#00e5ff"/><rect x="308" y="44" width="10" height="8" rx="2" fill="#00ff9d"/><rect x="308" y="55" width="10" height="8" rx="2" fill="#121224"/><rect x="308" y="66" width="10" height="8" rx="2" fill="#00e5ff88"/><rect x="322" y="0" width="10" height="8" rx="2" fill="#00ff9d"/><rect x="322" y="11" width="10" height="8" rx="2" fill="#121224"/><rect x="322" y="22" width="10" height="8" rx="2" fill="#00e5ff88"/><rect x="322" y="33" width="10" height="8" rx="2" fill="#00e5ff"/><rect x="322" y="44" width="10" height="8" rx="2" fill="#121224"/><rect x="322" y="55" width="10" height="8" rx="2" fill="#00ff9d44"/><rect x="322" y="66" width="10" height="8" rx="2" fill="#00e5ff"/>
+      </g>
+    </g>
+
+    <!-- Right Recent Log -->
+    <g transform="translate(610, 52)">
+      <text x="0" y="10" class="font-mono text-slate" font-size="10" font-weight="bold">Recent Activity</text>
+      <text x="0" y="32" class="font-mono text-white" font-size="10">● Pushed to Metadata-Extractor</text>
+      <text x="14" y="46" class="font-mono text-slate" font-size="9">2 days ago</text>
+      <text x="0" y="68" class="font-mono text-white" font-size="10">● Pushed to Student-Marks</text>
+      <text x="14" y="82" class="font-mono text-slate" font-size="9">5 days ago</text>
+    </g>
+  </g>
+
+  <!-- ================= 07 CONNECT & FOOTER ================= -->
+  <g transform="translate(36, 1110)">
+    <rect width="808" height="110" rx="8" fill="#070d18" stroke="#00ff9d" stroke-opacity="0.35" stroke-width="1.2"/>
+    <text x="18" y="26" class="font-mono" font-size="13" font-weight="bold" fill="#00ff9d">07 <tspan fill="#ffffff">CONNECT</tspan> <tspan fill="#64748b" font-size="11">// let's build together</tspan></text>
+    <line x1="18" y1="36" x2="790" y2="36" stroke="#00ff9d" stroke-opacity="0.2"/>
+
+    <!-- 4 Connect Buttons -->
+    <g transform="translate(18, 48)">
+      <rect width="180" height="42" rx="6" fill="#080814" stroke="#00ff9d" stroke-opacity="0.5"/>
+      <text x="14" y="20" class="font-mono text-primary" font-size="10" font-weight="bold">GITHUB</text>
+      <text x="14" y="34" class="font-mono text-slate" font-size="9">@aditya70-creator</text>
+
+      <rect x="195" width="180" height="42" rx="6" fill="#080814" stroke="#00e5ff" stroke-opacity="0.5"/>
+      <text x="209" y="20" class="font-mono text-secondary" font-size="10" font-weight="bold">LINKEDIN</text>
+      <text x="209" y="34" class="font-mono text-slate" font-size="9">Connect with me</text>
+
+      <rect x="390" width="180" height="42" rx="6" fill="#080814" stroke="#a855f7" stroke-opacity="0.5"/>
+      <text x="404" y="20" class="font-mono text-accent" font-size="10" font-weight="bold">PORTFOLIO</text>
+      <text x="404" y="34" class="font-mono text-slate" font-size="9">Coming Soon</text>
+
+      <rect x="585" width="180" height="42" rx="6" fill="#080814" stroke="#00ff9d" stroke-opacity="0.5"/>
+      <text x="599" y="20" class="font-mono text-primary" font-size="10" font-weight="bold">EMAIL</text>
+      <text x="599" y="34" class="font-mono text-slate" font-size="9">aditya70@...</text>
+    </g>
+  </g>
+
+  <!-- FOOTER SCRIPT -->
+  <g transform="translate(36, 1236)">
+    <text x="0" y="0" class="font-mono text-slate" font-size="10">STATUS: ONLINE | Building • Learning • Shipping</text>
+    <text x="808" y="0" class="font-script text-primary" font-size="15" text-anchor="end">Thanks for visiting! ;)</text>
+  </g>
+</svg>
