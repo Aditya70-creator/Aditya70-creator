@@ -126,10 +126,10 @@
   
 ---
 
-# 🚀 Contribution Space Shooter
+<h2 align="center">🚀 CONTRIBUTION SHOOTER</h2>
 
 <p align="center">
-  <img src="./shooter.svg" width="100%" alt="Contribution Rocket Laser Shooter"/>
+  <img src="./contribution-shooter.svg" width="100%" alt="Aditya70-creator GitHub Contribution Shooter"/>
 </p>
 
 ---
