@@ -48,44 +48,14 @@
 <table>
 <tr>
 <td width="60%" valign="top">
-
-- 🎓 **B.Tech Computer Science & Engineering** student focused on building fault-tolerant **Java & Spring Boot** backend architectures.
-- ⚙️ **Core Engineering:** Designing **RESTful APIs**, relational database schemas (**MySQL / PostgreSQL**), authentication pipelines, and **Docker** containers.
-- 🌍 **Open Source Focus:** Exploring enterprise codebases (**Apache Grails**), submitting bug fixes, and preparing for **Google Summer of Code (GSoC) 2027**.
-- ⚡ **Algorithmic Mindset:** Actively solving Data Structures & Algorithms problems in Java with a focus on time and space complexity.
-
-```java
-public class AdityaMitra {
-    private final String role = "Backend Software Engineer";
-    private final String[] backendStack = {
-        "Java 21", "Spring Boot 3", "MySQL",
-        "PostgreSQL", "Docker"
-    };
-    private final String[] currentFocus = {
-        "Apache Open Source", "System Design",
-        "250+ LeetCode"
-    };
-
-    public void executeCareerLoop() {
-        while (true) {
-            designCleanArchitecture();
-            shipProductionCode();
-            contributeToOpenSource();
-        }
-    }
-}
-```
-
+  <img src="./about.svg" width="100%" alt="About Aditya Mitra - Backend Engineer"/>
 </td>
 <td width="40%" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Aditya70-creator&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E7FF&icon_color=00E7FF" width="100%" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya70-creator&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E7FF" width="100%" alt="Top Languages"/>
-
-<a href="https://gitfut.com/Aditya70-creator">
-  <img src="https://gitfut.com/Aditya70-creator.png" width="100%" alt="GitFut Card"/>
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya70-creator&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E7FF&icon_color=00E7FF&ring_color=00E7FF&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya70-creator&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E7FF" width="100%" alt="Top Languages"/>
+  <a href="https://gitfut.com/Aditya70-creator">
+    <img src="https://gitfut.com/Aditya70-creator.png" width="100%" alt="GitFut Card"/>
+  </a>
 </td>
 </tr>
 </table>
