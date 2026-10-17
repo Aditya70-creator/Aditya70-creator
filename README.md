@@ -106,13 +106,69 @@ public class AdityaMitra {
 - 🌍 Enterprise open-source contribution workflows
 - 🧠 Advanced DSA and algorithmic problem-solving
 
-### ⚙️ Tooling
+# 🚀 Featured Engineering Projects
 
-`Git` `GitHub` `Java` `Groovy` `Maven` `Gradle`
+<p align="center">
+  <img src="./projects.svg" width="100%" alt="Featured Projects - Student Marks Manager and Metadata Extractor"/>
+</p>
 
-🔗 [Explore My Public Pull Requests](https://github.com/pulls?q=is%3Apr+author%3AAditya70-creator+is%3Apublic)
+<!-- Clickable Repository Buttons for the 2 SVG Cards -->
+<p align="center">
+  <a href="https://github.com/Aditya70-creator/Student-Marks-Manager">
+    <img src="https://img.shields.io/badge/📊_Student_Marks_Manager_Repo-0D1117?style=for-the-badge&logo=github&logoColor=00E7FF&labelColor=161B22" alt="Student Marks Manager"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Aditya70-creator">
+    <img src="https://img.shields.io/badge/🔍_Metadata_Extractor_Repo-0D1117?style=for-the-badge&logo=github&logoColor=C084FC&labelColor=161B22" alt="Metadata Extractor"/>
+  </a>
+</p>
 
-# 📈 GitHub Contribution Activity
+---
+
+# 🌍 Open Source & Algorithmic Problem Solving
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Data Structures & LeetCode Vault
+A structured collection of Data Structures and Algorithms solutions written in **Java** and **C**.
+
+- **Structures:** Arrays, Strings, Linked Lists, Trees, Heaps, and Graphs.
+- **Paradigms:** BFS/DFS, recursion, binary search, and dynamic programming.
+- **Problem Solving:** Edge cases, algorithm selection, and Big-O complexity optimization.
+
+**⚙️ Tech Stack:** `Java` `C` `Data Structures` `Algorithms` `LeetCode`
+
+<br/>
+<a href="https://github.com/Aditya70-creator/leetcode-solutions">
+  <img src="https://img.shields.io/badge/View_LeetCode_Vault-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Solutions"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Open Source & Apache Contributions
+Exploring open-source software and studying enterprise-grade Java codebases.
+
+- **Target Projects:** **Apache Grails** and Java/Spring open-source ecosystems.
+- **Contributions:** Bug fixes, issue reproduction, documentation improvements, and pull requests.
+- **Goal:** Build meaningful open-source contributions while preparing for **GSoC 2027**.
+
+**⚙️ Tooling:** `Git` `GitHub` `Java` `Groovy` `Maven` `Gradle`
+
+<br/>
+<a href="https://github.com/pulls?q=is%3Apr+author%3AAditya70-creator+is%3Apublic">
+  <img src="https://img.shields.io/badge/Explore_My_Public_PRs-8B5CF6?style=for-the-badge&logo=git&logoColor=white" alt="Public PRs"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Telemetry & Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya70-creator&bg_color=0D1117&color=00E7FF&line=00B4D8&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity"/>
@@ -122,23 +178,23 @@ public class AdityaMitra {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya70-creator&theme=tokyonight&hide_border=true&background=0D1117&ring=00E7FF&fire=00E7FF&currStreakLabel=00E7FF" width="100%" alt="GitHub Streak"/>
 </p>
 
+---
+
 # 🤝 Let's Connect & Build Together
+
+<div align="center">
 
 Open to **Backend Engineering Internships**, **Open Source Collaborations**, and discussions around **Java, Spring Boot, System Design, and Distributed Systems**.
 
+<br/>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/aditya-mitra-708913380">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-  </a>
-  <a href="mailto:mitraaditya14@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me"/>
-  </a>
+  <a href="https://www.linkedin.com/in/aditya-mitra-708913380"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mitraaditya14@gmail.com"><img src="https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
+
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E7FF,100:003B49&height=120&section=footer" width="100%" alt="Footer Banner"/>
-</p>
-
-<p align="center">
-  ⭐ <i>If you find my repositories helpful or interesting, feel free to drop a star!</i>
 </p>
