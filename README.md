@@ -77,14 +77,15 @@ public class AdityaMitra {
 ```
 
 </td>
-<td width="33%" valign="top">
+<td width="38%" valign="top">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Aditya70-creator&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E7FF&icon_color=00E7FF" width="100%" alt="GitHub Stats"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya70-creator&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E7FF" width="100%" alt="Top Languages"/>
 
-[![My GitFut card](https://gitfut.com/Aditya70-creator.png)](https://gitfut.com/Aditya70-creator)
-
+<a href="https://gitfut.com/Aditya70-creator">
+  <img src="https://gitfut.com/Aditya70-creator.png" width="100%" alt="GitFut Card"/>
+</a>
 </td>
 </tr>
 </table>
