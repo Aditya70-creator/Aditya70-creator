@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 565" width="100%" height="100%">
+  <defs>
+    <linearGradient id="panelBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070b14" />
+      <stop offset="100%" stop-color="#0d1324" />
+    </linearGradient>
+    <linearGradient id="topBar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E7FF" />
+      <stop offset="50%" stop-color="#3B82F6" />
+      <stop offset="100%" stop-color="#8B5CF6" />
+    </linearGradient>
+    <style>
+      .card-bg { fill: url(#panelBg); stroke: #1e293b; stroke-width: 1.5; rx: 12px; }
+      .row-box { fill: #050811; stroke: #1e293b; stroke-width: 1.2; rx: 8px; }
+      .sec-hdr { font: 700 11.5px 'JetBrains Mono', Consolas, monospace; fill: #00E7FF; letter-spacing: 2px; }
+      .row-title { font: 700 13px 'Segoe UI', Roboto, sans-serif; fill: #ffffff; }
+      .row-sub { font: 400 12px 'Segoe UI', Roboto, sans-serif; fill: #94a3b8; }
+      .hl-cyan { fill: #38bdf8; font-weight: 600; }
+      .hl-purple { fill: #c084fc; font-weight: 600; }
+      .hl-green { fill: #34d399; font-weight: 600; }
+      .code { font: 500 12px 'JetBrains Mono', Consolas, monospace; }
+      .ln { font: 400 11px 'JetBrains Mono', Consolas, monospace; fill: #475569; }
+      .pulse { animation: pulseGlow 2s infinite ease-in-out; }
+      .cursor { animation: blink 1s step-end infinite; }
+      @keyframes pulseGlow { 0%, 100% { opacity: 0.35; } 50% { opacity: 1; } }
+      @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+    </style>
+  </defs>
+
+  <!-- ========================================== -->
+  <!-- TOP SECTION: ENGINEER DOSSIER              -->
+  <!-- ========================================== -->
+  <rect x="2" y="2" width="676" height="262" class="card-bg" />
+  <rect x="2" y="2" width="676" height="3" rx="1.5" fill="url(#topBar)" />
+
+  <circle cx="24" cy="26" r="4.5" fill="#00E7FF" class="pulse" />
+  <text x="36" y="30" class="sec-hdr">ENGINEER DOSSIER // ADITYA MITRA</text>
+
+  <!-- Row 1 -->
+  <g transform="translate(18, 44)">
+    <rect width="644" height="46" class="row-box" stroke="#00E7FF" stroke-opacity="0.4" />
+    <rect x="0" y="0" width="4" height="46" rx="2" fill="#00E7FF" />
+    <text x="16" y="19" class="row-title">B.Tech Computer Science + Backend Engineering</text>
+    <text x="16" y="36" class="row-sub">Building fault-tolerant <tspan class="hl-cyan">Java 21 + Spring Boot 3</tspan> backend architectures.</text>
+  </g>
+
+  <!-- Row 2 -->
+  <g transform="translate(18, 98)">
+    <rect width="644" height="46" class="row-box" />
+    <rect x="0" y="0" width="4" height="46" rx="2" fill="#3B82F6" />
+    <text x="16" y="19" class="row-title">Core Systems + Database Design</text>
+    <text x="16" y="36" class="row-sub">Designing <tspan class="hl-cyan">RESTful APIs</tspan>, ACID schemas (<tspan class="hl-cyan">MySQL / PostgreSQL</tspan>), Auth, and <tspan class="hl-cyan">Docker</tspan> setups.</text>
+  </g>
+
+  <!-- Row 3 -->
+  <g transform="translate(18, 152)">
+    <rect width="644" height="46" class="row-box" />
+    <rect x="0" y="0" width="4" height="46" rx="2" fill="#8B5CF6" />
+    <text x="16" y="19" class="row-title">Enterprise Open Source Focus</text>
+    <text x="16" y="36" class="row-sub">Exploring <tspan class="hl-purple">Apache Grails</tspan>, shipping bug fixes, and preparing for <tspan class="hl-purple">GSoC 2027</tspan>.</text>
+  </g>
+
+  <!-- Row 4 -->
+  <g transform="translate(18, 206)">
+    <rect width="644" height="46" class="row-box" />
+    <rect x="0" y="0" width="4" height="46" rx="2" fill="#10B981" />
+    <text x="16" y="19" class="row-title">Algorithmic Problem Solving</text>
+    <text x="16" y="36" class="row-sub">Solving Data Structures + Algorithms in Java (<tspan class="hl-green">250+ LeetCode Target</tspan>) with optimal Big-O.</text>
+  </g>
+
+  <!-- ========================================== -->
+  <!-- BOTTOM SECTION: LIVE IDE WINDOW            -->
+  <!-- ========================================== -->
+  <g transform="translate(2, 278)">
+    <rect width="676" height="285" class="card-bg" />
+    <!-- IDE Header Bar -->
+    <rect width="676" height="32" rx="10" fill="#0f172a" />
+    <circle cx="20" cy="16" r="5" fill="#ef4444" />
+    <circle cx="36" cy="16" r="5" fill="#f59e0b" />
+    <circle cx="52" cy="16" r="5" fill="#10b981" />
+    <rect x="76" y="6" width="165" height="26" rx="5" fill="#070b14" />
+    <text x="158" y="22" text-anchor="middle" font-family="monospace" font-size="11" fill="#00E7FF">AdityaMitra.java</text>
+    <text x="655" y="21" text-anchor="end" font-family="monospace" font-size="10" fill="#64748b">JDK 21 LTS • Spring Boot 3</text>
+
+    <!-- Line Numbers -->
+    <text x="20" y="54" class="ln">01</text>
+    <text x="20" y="74" class="ln">02</text>
+    <text x="20" y="94" class="ln">03</text>
+    <text x="20" y="114" class="ln">04</text>
+    <text x="20" y="134" class="ln">05</text>
+    <text x="20" y="154" class="ln">06</text>
+    <text x="20" y="174" class="ln">07</text>
+    <text x="20" y="194" class="ln">08</text>
+    <text x="20" y="214" class="ln">09</text>
+    <text x="20" y="234" class="ln">10</text>
+    <text x="20" y="254" class="ln">11</text>
+
+    <!-- Syntax Highlighted Java Code -->
+    <text x="48" y="54" class="code" fill="#f59e0b">@Service</text>
+    <text x="48" y="74" class="code"><tspan fill="#ff7b72">public class</tspan> <tspan fill="#00E7FF">AdityaMitra</tspan> <tspan fill="#e2e8f0">{</tspan></text>
+
+    <text x="72" y="94" class="code"><tspan fill="#ff7b72">private final</tspan> <tspan fill="#e2e8f0">String role =</tspan> <tspan fill="#a5d6ff">"Backend Software Engineer"</tspan><tspan fill="#e2e8f0">;</tspan></text>
+    <text x="72" y="114" class="code"><tspan fill="#ff7b72">private final</tspan> <tspan fill="#e2e8f0">String[] stack = {</tspan><tspan fill="#a5d6ff">"Java 21"</tspan><tspan fill="#e2e8f0">,</tspan> <tspan fill="#a5d6ff">"Spring Boot 3"</tspan><tspan fill="#e2e8f0">,</tspan> <tspan fill="#a5d6ff">"MySQL"</tspan><tspan fill="#e2e8f0">,</tspan> <tspan fill="#a5d6ff">"PostgreSQL"</tspan><tspan fill="#e2e8f0">};</tspan></text>
+    <text x="72" y="134" class="code"><tspan fill="#ff7b72">private final</tspan> <tspan fill="#e2e8f0">String[] mission = {</tspan><tspan fill="#a5d6ff">"Apache Grails"</tspan><tspan fill="#e2e8f0">,</tspan> <tspan fill="#a5d6ff">"System Design"</tspan><tspan fill="#e2e8f0">,</tspan> <tspan fill="#a5d6ff">"GSoC 2027"</tspan><tspan fill="#e2e8f0">};</tspan></text>
+
+    <text x="72" y="154" class="code" fill="#f59e0b">@Transactional</text>
+    <text x="72" y="174" class="code"><tspan fill="#ff7b72">public void</tspan> <tspan fill="#d2a8ff">executeCareerLoop</tspan><tspan fill="#e2e8f0">() {</tspan></text>
+    <text x="96" y="194" class="code"><tspan fill="#ff7b72">while</tspan> <tspan fill="#e2e8f0">(</tspan><tspan fill="#79c0ff">true</tspan><tspan fill="#e2e8f0">) {</tspan></text>
+    <text x="120" y="214" class="code"><tspan fill="#d2a8ff">architectScalableSystems</tspan><tspan fill="#e2e8f0">();</tspan> <tspan fill="#64748b">// REST + Microservices</tspan></text>
+    <text x="120" y="234" class="code"><tspan fill="#d2a8ff">contributeToOpenSource</tspan><tspan fill="#e2e8f0">();</tspan>   <tspan fill="#64748b">// Clean PRs + Tests</tspan></text>
+    <text x="96" y="254" class="code" fill="#e2e8f0">} }</text>
+    <rect x="130" y="243" width="7" height="13" fill="#00E7FF" class="cursor" />
+
+    <!-- Bottom IDE Status Strip -->
+    <rect x="0" y="263" width="676" height="22" rx="6" fill="#052e16" />
+    <circle cx="18" cy="274" r="4" fill="#10b981" class="pulse" />
+    <text x="30" y="278" font-family="monospace" font-size="10.5" fill="#34d399">BUILD SUCCESSFUL • OPEN TO BACKEND INTERNSHIPS + OPEN SOURCE COLLABORATION</text>
+  </g>
+</svg>
