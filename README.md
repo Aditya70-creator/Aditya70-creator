@@ -134,6 +134,20 @@ public class AdityaMitra {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya70-creator&bg_color=0D1117&color=00E7FF&line=00B4D8&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity"/>
 </p>
 
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya70-creator&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya70-creator&theme=tokyonight"/>
+
+<br><br>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditya70-creator&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aditya70-creator&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya70-creator&theme=tokyonight&hide_border=true&background=0D1117&ring=00E7FF&fire=00E7FF&currStreakLabel=00E7FF" width="100%" alt="GitHub Streak"/>
 </p>
