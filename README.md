@@ -51,6 +51,8 @@
   <img src="./about.svg" width="100%" alt="About Aditya Mitra - Backend Engineer"/>
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aditya70-creator&theme=github_dark&utcOffset=5.5" width="100%" alt="Productive Time"/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya70-creator&theme=github_dark" width="100%" alt="Profile Details"/>
 </td>
 <td width="40%" valign="top">
   <img src="https://github-readme-stats.vercel.app/api?username=Aditya70-creator&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00E7FF&text_color=C9D1D9&icon_color=00B4D8&ring_color=00E7FF&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"/>
@@ -67,7 +69,7 @@
 # 🏗️ My Backend Architecture & Engineering Pipeline
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:003B49,100:00E7FF&height=100&section=header&text=DESIGN%20%E2%86%92%20BUILD%20%E2%86%92%20TEST%20%E2%86%92%20DEPLOY&fontSize=18&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Engineering Pipeline"/>
+  <img src="./architecture.svg" width="100%" alt="Backend Architecture and Engineering Pipeline"/>
 </p>
 
 # 🛠️ Tech Stack & Tooling
@@ -117,9 +119,8 @@
 
 <!-- Row 3: GitHub Streak (49%) + Live LeetCode Heatmap (49%) Side-by-Side -->
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya70-creator&theme=tokyonight" alt="Profile Details"/>
   <a href="https://leetcode.com/u/Aditya_Mitra_2007/">
-    <img width="49%" src="https://leetcard.jacoblin.cool/Aditya_Mitra_2007?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats"/>
+    <img width="75%" src="https://leetcard.jacoblin.cool/Aditya_Mitra_2007?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats"/>
   </a>
 </div>
   
@@ -137,6 +138,12 @@
 
 <p align="center">
   <img src="./connect.svg" width="100%" alt="Let's Connect and Collaborate"/>
+  <a href="https://www.linkedin.com/in/aditya-mitra-708913380">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mitraaditya14@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 
 <p align="center">
