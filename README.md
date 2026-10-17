@@ -108,8 +108,8 @@
 
 <!-- Row 2: 3 Summary Cards in a Single Symmetrical Row (32.5% each) -->
 <div align="center">
-  <img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya70-creator&theme=tokyonight" alt="Profile Details"/>
   <img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya70-creator&theme=tokyonight" alt="Repos Per Language"/>
+  <img width="32.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya70-creator&theme=tokyonight&hide_border=true&background=0D1117&ring=00E7FF&fire=00E7FF&currStreakLabel=00E7FF" alt="GitHub Streak"/>
   <img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditya70-creator&theme=tokyonight" alt="Most Commit Language"/>
 </div>
 
@@ -117,12 +117,12 @@
 
 <!-- Row 3: GitHub Streak (49%) + Live LeetCode Heatmap (49%) Side-by-Side -->
 <div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya70-creator&theme=tokyonight&hide_border=true&background=0D1117&ring=00E7FF&fire=00E7FF&currStreakLabel=00E7FF" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya70-creator&theme=tokyonight" alt="Profile Details"/>
   <a href="https://leetcode.com/u/Aditya_Mitra_2007/">
     <img width="49%" src="https://leetcard.jacoblin.cool/Aditya_Mitra_2007?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats"/>
   </a>
 </div>
-
+  
 ---
 
 # 🚀 Contribution Space Shooter
