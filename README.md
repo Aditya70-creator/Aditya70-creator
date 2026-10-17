@@ -66,22 +66,6 @@
 </tr>
 </table>
 
-# 🏗️ My Backend Architecture & Engineering Pipeline
-
-<p align="center">
-  <img src="./architecture.svg" width="100%" alt="Backend Architecture and Engineering Pipeline"/>
-</p>
-
-# 🛠️ Tech Stack & Tooling
-
-<p align="center">
-  <img src="./techstack.svg" width="100%" alt="Tech Stack and Tooling Matrix"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,postgres,mongodb,docker,linux,git,github,postman,idea&theme=dark" alt="Tech Icons"/>
-</p>
-
 # 🚀 Featured Engineering Projects
 
 <p align="center">
@@ -97,6 +81,22 @@
   <a href="https://github.com/Aditya70-creator">
     <img src="https://img.shields.io/badge/🔍_Metadata_Extractor_Repo-0D1117?style=for-the-badge&logo=github&logoColor=C084FC&labelColor=161B22" alt="Metadata Extractor"/>
   </a>
+</p>
+
+# 🏗️ My Backend Architecture & Engineering Pipeline
+
+<p align="center">
+  <img src="./architecture.svg" width="100%" alt="Backend Architecture and Engineering Pipeline"/>
+</p>
+
+# 🛠️ Tech Stack & Tooling
+
+<p align="center">
+  <img src="./techstack.svg" width="100%" alt="Tech Stack and Tooling Matrix"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,postgres,mongodb,docker,linux,git,github,postman,idea&theme=dark" alt="Tech Icons"/>
 </p>
 
 ---
