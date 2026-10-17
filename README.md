@@ -103,11 +103,6 @@
 
 # 📊 GitHub Telemetry & Contribution Activity
 
-<!-- Row 1: Full-Width Neon Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya70-creator&bg_color=0D1117&color=00E7FF&line=00B4D8&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity"/>
-</p>
-
 <!-- Row 2: 3 Summary Cards in a Single Symmetrical Row (32.5% each) -->
 <div align="center">
   <img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya70-creator&theme=tokyonight" alt="Repos Per Language"/>
