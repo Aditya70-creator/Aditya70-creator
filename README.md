@@ -98,16 +98,13 @@ public class AdityaMitra {
 
 # 🛠️ Tech Stack & Tooling
 
-| 💻 Languages | ⚙️ Backend & Frameworks | 🗄️ Databases | ☁️ DevOps & Tooling |
-|---|---|---|---|
-| Java, Python, C/C++, JavaScript | Spring Boot, Hibernate, Maven, Node.js | MySQL, PostgreSQL, MongoDB | Docker, Linux, Git, GitHub, Postman |
+<p align="center">
+  <img src="./techstack.svg" width="100%" alt="Tech Stack and Tooling Matrix"/>
+</p>
 
-**🔭 Currently Expanding Into:**
-
-- 🏛️ System Design and scalable backend architecture
-- ☁️ Cloud infrastructure, DevOps, and containerization
-- 🌍 Enterprise open-source contribution workflows
-- 🧠 Advanced DSA and algorithmic problem-solving
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,postgres,mongodb,docker,linux,git,github,postman,idea&theme=dark" alt="Tech Icons"/>
+</p>
 
 # 🚀 Featured Engineering Projects
 
