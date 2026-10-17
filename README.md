@@ -77,11 +77,13 @@ public class AdityaMitra {
 ```
 
 </td>
-<td width="38%" valign="top">
+<td width="33%" valign="top">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Aditya70-creator&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E7FF&icon_color=00E7FF" width="100%" alt="GitHub Stats"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya70-creator&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E7FF" width="100%" alt="Top Languages"/>
+
+[![My GitFut card](https://gitfut.com/Aditya70-creator.png)](https://gitfut.com/Aditya70-creator)
 
 </td>
 </tr>
@@ -125,49 +127,6 @@ public class AdityaMitra {
 
 ---
 
-# 🌍 Open Source & Algorithmic Problem Solving
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ Data Structures & LeetCode Vault
-A structured collection of Data Structures and Algorithms solutions written in **Java** and **C**.
-
-- **Structures:** Arrays, Strings, Linked Lists, Trees, Heaps, and Graphs.
-- **Paradigms:** BFS/DFS, recursion, binary search, and dynamic programming.
-- **Problem Solving:** Edge cases, algorithm selection, and Big-O complexity optimization.
-
-**⚙️ Tech Stack:** `Java` `C` `Data Structures` `Algorithms` `LeetCode`
-
-<br/>
-<a href="https://github.com/Aditya70-creator/leetcode-solutions">
-  <img src="https://img.shields.io/badge/View_LeetCode_Vault-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Solutions"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 Open Source & Apache Contributions
-Exploring open-source software and studying enterprise-grade Java codebases.
-
-- **Target Projects:** **Apache Grails** and Java/Spring open-source ecosystems.
-- **Contributions:** Bug fixes, issue reproduction, documentation improvements, and pull requests.
-- **Goal:** Build meaningful open-source contributions while preparing for **GSoC 2027**.
-
-**⚙️ Tooling:** `Git` `GitHub` `Java` `Groovy` `Maven` `Gradle`
-
-<br/>
-<a href="https://github.com/pulls?q=is%3Apr+author%3AAditya70-creator+is%3Apublic">
-  <img src="https://img.shields.io/badge/Explore_My_Public_PRs-8B5CF6?style=for-the-badge&logo=git&logoColor=white" alt="Public PRs"/>
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
 # 📊 GitHub Telemetry & Contribution Activity
 
 <p align="center">
@@ -180,6 +139,25 @@ Exploring open-source software and studying enterprise-grade Java codebases.
 
 ---
 
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/Aditya70-creator/Aditya70-creator/output/github-contribution-grid-snake-dark.svg"/>
+
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/Aditya70-creator/Aditya70-creator/output/github-contribution-grid-snake.svg"/>
+
+<img alt="Contribution Snake"
+src="https://raw.githubusercontent.com/Aditya70-creator/Aditya70-creator/output/github-contribution-grid-snake.svg"/>
+
+</picture>
+
+</div>
+
 # 🤝 Let's Connect & Build Together
 
 <div align="center">
@@ -190,7 +168,6 @@ Open to **Backend Engineering Internships**, **Open Source Collaborations**, and
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-mitra-708913380"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:mitraaditya14@gmail.com"><img src="https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 </div>
