@@ -83,12 +83,6 @@
   </a>
 </p>
 
-# 🏗️ My Backend Architecture & Engineering Pipeline
-
-<p align="center">
-  <img src="./architecture.svg" width="100%" alt="Backend Architecture and Engineering Pipeline"/>
-</p>
-
 # 🛠️ Tech Stack & Tooling
 
 <p align="center">
@@ -99,9 +93,15 @@
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,postgres,mongodb,docker,linux,git,github,postman,idea&theme=dark" alt="Tech Icons"/>
 </p>
 
+# 🏗️ My Backend Architecture & Engineering Pipeline
+
+<p align="center">
+  <img src="./architecture.svg" width="100%" alt="Backend Architecture and Engineering Pipeline"/>
+</p>
+
 ---
 
-# 📊 GitHub Telemetry & Contribution Activity
+# 📊 Telemetry & Contribution Activity
 
 <!-- Row 2: 3 Summary Cards in a Single Symmetrical Row (32.5% each) -->
 <div align="center">
