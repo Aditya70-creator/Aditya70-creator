@@ -125,10 +125,11 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aditya70-creator/Aditya70-creator/output/shooter.svg" width="100%" alt="Contribution Shooter"/>
-</p>
+# 🚀 Contribution Space Shooter
 
+<p align="center">
+  <img src="./shooter.svg" width="100%" alt="Contribution Rocket Laser Shooter"/>
+</p>
 ---
 
 # 🤝 Let's Connect & Build Together
