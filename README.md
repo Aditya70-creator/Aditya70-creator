@@ -125,15 +125,9 @@
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aditya70-creator/Aditya70-creator/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aditya70-creator/Aditya70-creator/output/github-contribution-grid-snake.svg"/>
-    <img width="100%" alt="Contribution Snake" src="https://raw.githubusercontent.com/Aditya70-creator/Aditya70-creator/output/github-contribution-grid-snake.svg"/>
-  </picture>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aditya70-creator/Aditya70-creator/output/shooter.svg" width="100%" alt="Contribution Shooter"/>
+</p>
 
 ---
 
