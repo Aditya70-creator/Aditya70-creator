@@ -47,7 +47,7 @@
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="60%" valign="top">
 
 - 🎓 **B.Tech Computer Science & Engineering** student focused on building fault-tolerant **Java & Spring Boot** backend architectures.
 - ⚙️ **Core Engineering:** Designing **RESTful APIs**, relational database schemas (**MySQL / PostgreSQL**), authentication pipelines, and **Docker** containers.
@@ -77,7 +77,7 @@ public class AdityaMitra {
 ```
 
 </td>
-<td width="38%" valign="top">
+<td width="40%" valign="top">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Aditya70-creator&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E7FF&icon_color=00E7FF" width="100%" alt="GitHub Stats"/>
 
