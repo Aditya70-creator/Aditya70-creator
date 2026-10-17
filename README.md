@@ -49,10 +49,14 @@
 <tr>
 <td width="60%" valign="top">
   <img src="./about.svg" width="100%" alt="About Aditya Mitra - Backend Engineer"/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aditya70-creator&theme=github_dark&utcOffset=5.5" width="100%" alt="Productive Time"/>
 </td>
 <td width="40%" valign="top">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya70-creator&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E7FF&icon_color=00E7FF&ring_color=00E7FF&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya70-creator&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E7FF" width="100%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya70-creator&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00E7FF&text_color=C9D1D9&icon_color=00B4D8&ring_color=00E7FF&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya70-creator&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00E7FF&text_color=C9D1D9&icon_color=00B4D8" width="100%" alt="Top Languages"/>
+
   <a href="https://gitfut.com/Aditya70-creator">
     <img src="https://gitfut.com/Aditya70-creator.png" width="100%" alt="GitFut Card"/>
   </a>
@@ -110,8 +114,6 @@
 <br><br>
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditya70-creator&theme=tokyonight"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aditya70-creator&theme=tokyonight&utcOffset=5.5"/>
 
 </div>
 
