@@ -144,23 +144,5 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aditya-mitra-708913380">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:mitraaditya14@gmail.com">
-    <img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/pulls?q=is%3Apr+author%3AAditya70-creator+is%3Apublic">
-    <img src="https://img.shields.io/badge/Explore_Open_Source_PRs-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Open Source PRs"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Aditya_Mitra_2007/">
-    <img src="https://img.shields.io/badge/LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E7FF,50:3B82F6,100:050811&height=110&section=footer" width="100%" alt="Footer Banner"/>
 </p>
