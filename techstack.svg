@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 320" width="100%" height="100%">
+  <defs>
+    <linearGradient id="boxGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080d1a" />
+      <stop offset="100%" stop-color="#0f172a" />
+    </linearGradient>
+    <linearGradient id="barGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E7FF" />
+      <stop offset="50%" stop-color="#3B82F6" />
+      <stop offset="100%" stop-color="#8B5CF6" />
+    </linearGradient>
+    <style>
+      .col-box { fill: url(#boxGrad); stroke: #1e293b; stroke-width: 1.5; rx: 12px; }
+      .col-title { font: 700 13px 'JetBrains Mono', Consolas, monospace; fill: #00E7FF; letter-spacing: 1.5px; }
+      .chip { fill: #050811; stroke: #1e293b; stroke-width: 1.2; rx: 6px; }
+      .chip-txt { font: 600 12px 'JetBrains Mono', Consolas, monospace; fill: #e2e8f0; }
+      .exp-box { fill: #070b14; stroke: #1e293b; stroke-width: 1.5; rx: 12px; }
+      .exp-title { font: 700 12px 'JetBrains Mono', Consolas, monospace; fill: #c084fc; letter-spacing: 2px; }
+      .exp-item { font: 600 12.5px 'Segoe UI', Roboto, sans-serif; fill: #cbd5e1; }
+      .pulse { animation: pulseGlow 2s infinite ease-in-out; }
+      @keyframes pulseGlow { 0%, 100% { opacity: 0.35; } 50% { opacity: 1; } }
+    </style>
+  </defs>
+
+  <rect width="1100" height="320" rx="16" fill="#050811" stroke="#1e293b" stroke-width="1.5" />
+
+  <!-- COLUMN 1: LANGUAGES -->
+  <g transform="translate(20, 20)">
+    <rect width="250" height="185" class="col-box" />
+    <rect x="0" y="0" width="250" height="3" rx="1.5" fill="#00E7FF" />
+    <circle cx="22" cy="26" r="4" fill="#00E7FF" class="pulse" />
+    <text x="34" y="30" class="col-title">01 // LANGUAGES</text>
+
+    <rect x="20" y="48" width="100" height="30" class="chip" stroke="#00E7FF" />
+    <text x="70" y="67" text-anchor="middle" class="chip-txt">Java 21</text>
+
+    <rect x="130" y="48" width="100" height="30" class="chip" />
+    <text x="180" y="67" text-anchor="middle" class="chip-txt">Python</text>
+
+    <rect x="20" y="90" width="100" height="30" class="chip" />
+    <text x="70" y="109" text-anchor="middle" class="chip-txt">C / C++</text>
+
+    <rect x="130" y="90" width="100" height="30" class="chip" />
+    <text x="180" y="109" text-anchor="middle" class="chip-txt">JavaScript</text>
+
+    <rect x="20" y="132" width="210" height="30" class="chip" />
+    <text x="125" y="151" text-anchor="middle" class="chip-txt">SQL • Bash / Shell</text>
+  </g>
+
+  <!-- COLUMN 2: BACKEND & FRAMEWORKS -->
+  <g transform="translate(290, 20)">
+    <rect width="250" height="185" class="col-box" />
+    <rect x="0" y="0" width="250" height="3" rx="1.5" fill="#3B82F6" />
+    <circle cx="22" cy="26" r="4" fill="#3B82F6" class="pulse" />
+    <text x="34" y="30" class="col-title" fill="#38bdf8">02 // BACKEND CORE</text>
+
+    <rect x="20" y="48" width="210" height="30" class="chip" />
+    <text x="125" y="67" text-anchor="middle" class="chip-txt">Spring Boot 3 • Security</text>
+
+    <rect x="20" y="90" width="100" height="30" class="chip" />
+    <text x="70" y="109" text-anchor="middle" class="chip-txt">Hibernate</text>
+
+    <rect x="130" y="90" width="100" height="30" class="chip" />
+    <text x="180" y="109" text-anchor="middle" class="chip-txt">Maven</text>
+
+    <rect x="20" y="132" width="100" height="30" class="chip" />
+    <text x="70" y="151" text-anchor="middle" class="chip-txt">Node.js</text>
+
+    <rect x="130" y="132" width="100" height="30" class="chip" />
+    <text x="180" y="151" text-anchor="middle" class="chip-txt">REST APIs</text>
+  </g>
+
+  <!-- COLUMN 3: DATABASES -->
+  <g transform="translate(560, 20)">
+    <rect width="250" height="185" class="col-box" />
+    <rect x="0" y="0" width="250" height="3" rx="1.5" fill="#10B981" />
+    <circle cx="22" cy="26" r="4" fill="#10B981" class="pulse" />
+    <text x="34" y="30" class="col-title" fill="#34d399">03 // DATABASES</text>
+
+    <rect x="20" y="48" width="210" height="30" class="chip" />
+    <text x="125" y="67" text-anchor="middle" class="chip-txt">PostgreSQL (ACID)</text>
+
+    <rect x="20" y="90" width="210" height="30" class="chip" />
+    <text x="125" y="109" text-anchor="middle" class="chip-txt">MySQL Relational DB</text>
+
+    <rect x="20" y="132" width="210" height="30" class="chip" />
+    <text x="125" y="151" text-anchor="middle" class="chip-txt">MongoDB Atlas (NoSQL)</text>
+  </g>
+
+  <!-- COLUMN 4: DEVOPS & TOOLING -->
+  <g transform="translate(830, 20)">
+    <rect width="250" height="185" class="col-box" />
+    <rect x="0" y="0" width="250" height="3" rx="1.5" fill="#8B5CF6" />
+    <circle cx="22" cy="26" r="4" fill="#8B5CF6" class="pulse" />
+    <text x="34" y="30" class="col-title" fill="#c084fc">04 // DEVOPS + TOOLS</text>
+
+    <rect x="20" y="48" width="100" height="30" class="chip" />
+    <text x="70" y="67" text-anchor="middle" class="chip-txt">Docker</text>
+
+    <rect x="130" y="48" width="100" height="30" class="chip" />
+    <text x="180" y="67" text-anchor="middle" class="chip-txt">Linux WSL</text>
+
+    <rect x="20" y="90" width="100" height="30" class="chip" />
+    <text x="70" y="109" text-anchor="middle" class="chip-txt">Git</text>
+
+    <rect x="130" y="90" width="100" height="30" class="chip" />
+    <text x="180" y="109" text-anchor="middle" class="chip-txt">GitHub CI</text>
+
+    <rect x="20" y="132" width="210" height="30" class="chip" />
+    <text x="125" y="151" text-anchor="middle" class="chip-txt">Postman • IntelliJ IDEA</text>
+  </g>
+
+  <!-- BOTTOM BAR: CURRENTLY EXPANDING INTO -->
+  <g transform="translate(20, 222)">
+    <rect width="1060" height="78" class="exp-box" />
+    <rect x="0" y="0" width="1060" height="2" fill="url(#barGrad)" />
+    <text x="24" y="28" class="exp-title">CURRENTLY EXPANDING INTO // 2026-2027 ROADMAP</text>
+
+    <circle cx="30" cy="54" r="4" fill="#00E7FF" class="pulse" />
+    <text x="42" y="58" class="exp-item">System Design + Architecture</text>
+
+    <circle cx="290" cy="54" r="4" fill="#3B82F6" class="pulse" />
+    <text x="302" y="58" class="exp-item">Cloud Infra + Containerization</text>
+
+    <circle cx="565" cy="54" r="4" fill="#8B5CF6" class="pulse" />
+    <text x="577" y="58" class="exp-item">Apache Open Source Workflows</text>
+
+    <circle cx="835" cy="54" r="4" fill="#10B981" class="pulse" />
+    <text x="847" y="58" class="exp-item">Advanced DSA (250+ Target)</text>
+  </g>
+</svg>
