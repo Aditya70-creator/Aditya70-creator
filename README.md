@@ -101,61 +101,66 @@
 
 # 📊 GitHub Telemetry & Contribution Activity
 
+<!-- Row 1: Full-Width Neon Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya70-creator&bg_color=0D1117&color=00E7FF&line=00B4D8&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity"/>
 </p>
 
+<!-- Row 2: 3 Summary Cards in a Single Symmetrical Row (32.5% each) -->
 <div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya70-creator&theme=tokyonight"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya70-creator&theme=tokyonight"/>
-
-<br><br>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditya70-creator&theme=tokyonight"/>
-
+  <img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya70-creator&theme=tokyonight" alt="Profile Details"/>
+  <img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya70-creator&theme=tokyonight" alt="Repos Per Language"/>
+  <img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditya70-creator&theme=tokyonight" alt="Most Commit Language"/>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya70-creator&theme=tokyonight&hide_border=true&background=0D1117&ring=00E7FF&fire=00E7FF&currStreakLabel=00E7FF" width="100%" alt="GitHub Streak"/>
-</p>
+<br/>
+
+<!-- Row 3: GitHub Streak (49%) + Live LeetCode Heatmap (49%) Side-by-Side -->
+<div align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya70-creator&theme=tokyonight&hide_border=true&background=0D1117&ring=00E7FF&fire=00E7FF&currStreakLabel=00E7FF" alt="GitHub Streak"/>
+  <a href="https://leetcode.com/u/Aditya_Mitra_2007/">
+    <img width="49%" src="https://leetcard.jacoblin.cool/Aditya_Mitra_2007?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats"/>
+  </a>
+</div>
 
 ---
 
 # 🐍 Contribution Snake
 
 <div align="center">
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/Aditya70-creator/Aditya70-creator/output/github-contribution-grid-snake-dark.svg"/>
-
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/Aditya70-creator/Aditya70-creator/output/github-contribution-grid-snake.svg"/>
-
-<img alt="Contribution Snake"
-src="https://raw.githubusercontent.com/Aditya70-creator/Aditya70-creator/output/github-contribution-grid-snake.svg"/>
-
-</picture>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aditya70-creator/Aditya70-creator/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aditya70-creator/Aditya70-creator/output/github-contribution-grid-snake.svg"/>
+    <img width="100%" alt="Contribution Snake" src="https://raw.githubusercontent.com/Aditya70-creator/Aditya70-creator/output/github-contribution-grid-snake.svg"/>
+  </picture>
 </div>
+
+---
 
 # 🤝 Let's Connect & Build Together
 
-<div align="center">
-
-Open to **Backend Engineering Internships**, **Open Source Collaborations**, and discussions around **Java, Spring Boot, System Design, and Distributed Systems**.
-
-<br/>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/aditya-mitra-708913380"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img src="./connect.svg" width="100%" alt="Let's Connect and Collaborate"/>
 </p>
 
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditya-mitra-708913380">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:mitraaditya14@gmail.com">
+    <img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/pulls?q=is%3Apr+author%3AAditya70-creator+is%3Apublic">
+    <img src="https://img.shields.io/badge/Explore_Open_Source_PRs-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Open Source PRs"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Aditya_Mitra_2007/">
+    <img src="https://img.shields.io/badge/LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E7FF,100:003B49&height=120&section=footer" width="100%" alt="Footer Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E7FF,50:3B82F6,100:050811&height=110&section=footer" width="100%" alt="Footer Banner"/>
 </p>
