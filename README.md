@@ -127,7 +127,11 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,postgres,mongodb,docker,linux,git,github,postman,idea&theme=dark" alt="Tech Icons"/>
+  <img src="https://skillicons.dev/icons?i=java,python,spring,hibernate,maven,mysql,postgres,mongodb,docker,linux,git,github,postman,idea&theme=dark" alt="Core Tech Icons"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,fastapi,pandas,numpy,redis,kafka,mlflow&theme=dark" alt="AI, ML & MLOps Icons"/>
 </p>
 
 # 🏗️ My Backend Architecture & Engineering Pipeline
