@@ -11,7 +11,6 @@
 </p>
 
 <!-- Recruiter & Open Source Action Links -->
-
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-mitra-708913380">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -19,10 +18,13 @@
   <a href="mailto:mitraaditya14@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  <a href="https://github.com/Aditya70-creator/Aditya70-creator/blob/main/Aditya_Mitra_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume_%2F_CV-0891B2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
+  </a>
   <a href="https://github.com/pulls?q=is%3Apr+author%3AAditya70-creator+is%3Apublic">
     <img src="https://img.shields.io/badge/My_Open_Source_PRs-8B5CF6?style=for-the-badge&logo=git&logoColor=white" alt="Public PRs"/>
   </a>
-  <a href="[https://github.com/Aditya70-creator/leetcode-solutions](https://leetcode.com/u/Aditya_Mitra_2007/)">
+  <a href="https://leetcode.com/u/Aditya_Mitra_2007/">
     <img src="https://img.shields.io/badge/LeetCode_Vault-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
