@@ -68,18 +68,55 @@
 
 # 🚀 Featured Engineering Projects
 
+<!-- LINE 3: Student Marks Manager + Metadata Extractor (2 Projects + 2 Repo Buttons) -->
 <p align="center">
-  <img src="./projects.svg" width="100%" alt="Featured Projects - Student Marks Manager and Metadata Extractor"/>
+  <img src="./projects.svg" width="100%" alt="Student Marks Manager and Metadata Extractor"/>
 </p>
-
-<!-- Clickable Repository Buttons for the 2 SVG Cards -->
 <p align="center">
   <a href="https://github.com/Aditya70-creator/Student-Marks-Manager">
-    <img src="https://img.shields.io/badge/📊_Student_Marks_Manager_Repo-0D1117?style=for-the-badge&logo=github&logoColor=00E7FF&labelColor=161B22" alt="Student Marks Manager"/>
+    <img src="https://img.shields.io/badge/📊_Student_Marks_Manager_Repo-0D1117?style=for-the-badge&logo=github&logoColor=00E7FF&labelColor=161B22" alt="Student Marks Manager Repo"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Aditya70-creator">
-    <img src="https://img.shields.io/badge/🔍_Metadata_Extractor_Repo-0D1117?style=for-the-badge&logo=github&logoColor=C084FC&labelColor=161B22" alt="Metadata Extractor"/>
+    <img src="https://img.shields.io/badge/🔍_Metadata_Extractor_Repo-0D1117?style=for-the-badge&logo=github&logoColor=C084FC&labelColor=161B22" alt="Metadata Extractor Repo"/>
+  </a>
+</p>
+
+<!-- LINE 1: SentinelML + FraudLens (2 Projects + 2 Repo Buttons) -->
+<p align="center">
+  <img src="./projects_1.svg" width="100%" alt="SentinelML and FraudLens"/>
+</p>
+<p align="center">
+  <a href="https://github.com/Aditya70-creator/SentinelML">
+    <img src="https://img.shields.io/badge/🛡️_SentinelML_Repo-0D1117?style=for-the-badge&logo=github&logoColor=00E7FF&labelColor=161B22" alt="SentinelML Repo"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Aditya70-creator/FraudLens">
+    <img src="https://img.shields.io/badge/💳_FraudLens_Repo-0D1117?style=for-the-badge&logo=github&logoColor=C084FC&labelColor=161B22" alt="FraudLens Repo"/>
+  </a>
+</p>
+
+<!-- LINE 2: PredictiveOps + CampusMind (2 Projects + 2 Repo Buttons) -->
+<p align="center">
+  <img src="./projects_2.svg" width="100%" alt="PredictiveOps and CampusMind"/>
+</p>
+<p align="center">
+  <a href="https://github.com/Aditya70-creator/PredictiveOps">
+    <img src="https://img.shields.io/badge/⚙️_PredictiveOps_Repo-0D1117?style=for-the-badge&logo=github&logoColor=00E7FF&labelColor=161B22" alt="PredictiveOps Repo"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Aditya70-creator/CampusMind">
+    <img src="https://img.shields.io/badge/🧠_CampusMind_Repo-0D1117?style=for-the-badge&logo=github&logoColor=C084FC&labelColor=161B22" alt="CampusMind Repo"/>
+  </a>
+</p>
+
+<!-- LINE 4: AutoML-Studio (1 Centered Project + 1 Repo Button) -->
+<p align="center">
+  <img src="./projects_3.svg" width="100%" alt="AutoML-Studio"/>
+</p>
+<p align="center">
+  <a href="https://github.com/Aditya70-creator/AutoML-Studio">
+    <img src="https://img.shields.io/badge/🧪_AutoML_Studio_Repo-0D1117?style=for-the-badge&logo=github&logoColor=00E7FF&labelColor=161B22" alt="AutoML Studio Repo"/>
   </a>
 </p>
 
