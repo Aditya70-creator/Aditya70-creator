@@ -131,7 +131,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,fastapi,pandas,numpy,redis,kafka,mlflow&theme=dark" alt="AI, ML & MLOps Icons"/>
+  <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,fastapi,kafka,redis,tensorflow&theme=dark" alt="AI, ML & MLOps Icons"/>
 </p>
 
 # 🏗️ My Backend Architecture & Engineering Pipeline
