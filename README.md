@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&pause=1200&color=00E7FF&center=true&vCenter=true&width=900&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;Architecting+Scalable+REST+APIs+%26+Databases;Open+Source+Contributor+%7C+Targeting+Apache+%26+GSoC+'27;250%2B+DSA+Problems+%26+Clean+System+Design" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&pause=1200&color=00E7FF&center=true&vCenter=true&width=900&lines=Software+Engineering+%7C+Java+%26+Spring+Boot;Exploring+MLOps+%7C+ML+Systems+%26+Deployment;Building+Scalable+APIs+%26+Data-Driven+Systems;Open+Source+Contributor+%7C+Targeting+Apache+%26+GSoC+'27;Clean+System+Design+%26+Problem+Solving" alt="Typing SVG"/>
 </p>
 
 <!-- Recruiter & Open Source Action Links -->
