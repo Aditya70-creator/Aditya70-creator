@@ -79,7 +79,7 @@
     <img src="https://img.shields.io/badge/📊_Student_Marks_Manager_Repo-0D1117?style=for-the-badge&logo=github&logoColor=00E7FF&labelColor=161B22" alt="Student Marks Manager Repo"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Aditya70-creator">
+  <a href="https://github.com/Aditya70-creator/Metadata-Extractor">
     <img src="https://img.shields.io/badge/🔍_Metadata_Extractor_Repo-0D1117?style=for-the-badge&logo=github&logoColor=C084FC&labelColor=161B22" alt="Metadata Extractor Repo"/>
   </a>
 </p>
