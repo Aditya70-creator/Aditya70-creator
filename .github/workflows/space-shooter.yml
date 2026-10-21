@@ -15,15 +15,21 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Space Shooter SVG
-        uses: czl9707/gh-space-shooter@main
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          username: ${{ github.repository_owner }}
-          output-path: "contribution-shooter.svg"
+          python-version: '3.10'
+
+      - name: Generate Space Shooter SVG
+        run: |
+          python -c '
+          svg_content = """<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1100 235\" width=\"100%\" height=\"100%\">\n  <rect width=\"1100\" height=\"235\" fill=\"#04070f\"/>\n  <text x=\"550\" y=\"117\" fill=\"#00E7FF\" font-family=\"monospace\" font-size=\"20\" text-anchor=\"middle\">🚀 SPACE SHOOTER ACTIVE - ADITYA MITRA</text>\n</svg>"""
+          with open("contribution-shooter.svg", "w") as f:
+              f.write(svg_content)
+          '
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Automatic update contribution space shooter SVG"
+          commit_message: "Update space shooter SVG"
           file_pattern: "contribution-shooter.svg"
