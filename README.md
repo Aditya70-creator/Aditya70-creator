@@ -168,12 +168,10 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aditya70-creator/Aditya70-creator/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aditya70-creator/Aditya70-creator/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Aditya70-creator/Aditya70-creator/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="./pacman-contribution-graph.svg">
   </picture>
-
-  _generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 </p>
 
 ---
