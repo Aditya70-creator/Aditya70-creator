@@ -1,0 +1,29 @@
+name: Generate Space Shooter SVG
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Roj raat ko 1 baar run hoga
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Space Shooter SVG
+        uses: czl9707/gh-space-shooter@main
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          OUTPUT_PATH: "contribution-shooter.svg"
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Automatic update contribution space shooter SVG"
+          file_pattern: "contribution-shooter.svg"
