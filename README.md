@@ -32,9 +32,9 @@
 <!-- Fixed Live Telemetry Badges -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile_Views-Tracking-00b4d8?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Aditya70-creator?label=Followers&style=for-the-badge&logo=github&color=00b4d8&labelColor=1a1b27" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/Aditya70-creator?affiliations=OWNER&label=Repo+Stars&style=for-the-badge&logo=github&color=00b4d8&labelColor=1a1b27" alt="Repository Stars"/>
+  <img src="https://img.shields.io/badge/PROFILE_VIEWS-1-00b4d8?style=for-the-badge&logo=eye&logoColor=white&labelColor=1a1b27" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Aditya70-creator?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=00b4d8&labelColor=1a1b27" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Aditya70-creator?affiliations=OWNER&label=REPO_STARS&style=for-the-badge&logo=github&logoColor=white&color=00b4d8&labelColor=1a1b27" alt="Repository Stars" />
 </p>
 
 <p align="center">
