@@ -10,9 +10,9 @@ on:
 
 jobs:
   generate:
+    runs-on: ubuntu-latest
     permissions:
       contents: write
-    runs-on: ubuntu-latest
     timeout-minutes: 20
 
     steps:
@@ -29,4 +29,6 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Automatic update arcade contribution graphs"
-          file_pattern: "*.svg"
+          file_pattern: "*-contribution-graph*.svg"
+          branch: main
+          create_branch: false
