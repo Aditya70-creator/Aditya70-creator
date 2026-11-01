@@ -168,9 +168,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./arcade-contribution-graph.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./arcade-contribution-graph.svg">
-    <img alt="arcade contribution graph" src="./arcade-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./arcade-contributions-graph.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./arcade-contributions-graph.svg">
+    <img alt="arcade contributions graph" src="./arcade-contributions-graph.svg">
   </picture>
 </p>
 
