@@ -27,6 +27,12 @@
   <a href="https://leetcode.com/u/Aditya_Mitra_2007/">
     <img src="https://img.shields.io/badge/LeetCode_Vault-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
+  <a href="https://huggingface.co/arrowadi75">
+    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  </a>
+  <a href="https://x.com/arrowadi57">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
 </p>
 
 <!-- Fixed Live Telemetry Badges -->
